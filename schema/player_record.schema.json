@@ -1,0 +1,126 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.local/nhl/player_record.schema.json",
+  "title": "NHL player record",
+  "description": "One player's contracts, trades and career statistics, gathered from several web sources and cross-checked.",
+  "type": "object",
+  "required": ["schema_version", "player", "contracts", "trade_history", "career_statistics", "summary", "verification", "sources", "generated_at"],
+  "properties": {
+    "schema_version": {"const": "1.0"},
+    "player": {
+      "type": "object",
+      "required": ["name", "slug"],
+      "properties": {
+        "name": {"type": "string"},
+        "slug": {"type": "string"},
+        "position": {"type": ["string", "null"]},
+        "shoots": {"type": ["string", "null"]},
+        "birth_date": {"type": ["string", "null"]},
+        "birthplace": {"type": ["string", "null"]},
+        "current_team": {"type": ["string", "null"]},
+        "current_team_abbr": {"type": ["string", "null"]}
+      }
+    },
+    "draft": {
+      "type": ["object", "null"],
+      "properties": {
+        "year": {"type": ["integer", "null"]},
+        "round": {"type": ["integer", "null"]},
+        "overall_pick": {"type": ["integer", "null"]},
+        "team": {"type": ["string", "null"]},
+        "team_abbr": {"type": ["string", "null"]}
+      }
+    },
+    "contracts": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["contract_number", "team", "contract_type", "status", "sources"],
+        "properties": {
+          "contract_number": {"type": "integer"},
+          "team": {"type": ["string", "null"]},
+          "team_abbr": {"type": ["string", "null"]},
+          "contract_type": {"enum": ["entry_level", "extension", "rfa", "ufa", "unknown"]},
+          "signing_date": {"type": ["string", "null"], "pattern": "^\\d{4}(-\\d{2}(-\\d{2})?)?$"},
+          "first_season": {"type": ["string", "null"], "pattern": "^\\d{4}-\\d{2}$"},
+          "term_years": {"type": ["integer", "null"], "minimum": 1, "maximum": 15},
+          "seasons": {"type": "array", "items": {"type": "string", "pattern": "^\\d{4}-\\d{2}$"}},
+          "total_value_usd": {"type": ["integer", "null"], "minimum": 0},
+          "cap_hit_usd": {"type": ["integer", "null"], "minimum": 0},
+          "clauses": {"type": "array", "items": {"type": "string"}},
+          "status": {"enum": ["confirmed", "single_source", "conflict"]},
+          "conflicts": {"type": "array"},
+          "derived_fields": {"type": "array", "items": {"type": "string"}},
+          "sources": {"type": "array", "items": {"type": "string"}},
+          "evidence": {"type": "array"}
+        }
+      }
+    },
+    "trade_history": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["from_team", "to_team", "status", "sources"],
+        "properties": {
+          "date": {"type": ["string", "null"], "pattern": "^\\d{4}(-\\d{2}(-\\d{2})?)?$"},
+          "from_team": {"type": ["string", "null"]},
+          "from_abbr": {"type": "string"},
+          "to_team": {"type": ["string", "null"]},
+          "to_abbr": {"type": "string"},
+          "new_team_received": {"type": "array", "items": {"type": "string"}},
+          "old_team_received": {"type": "array", "items": {"type": "string"}},
+          "salary_retained_pct": {"type": ["number", "null"]},
+          "status": {"enum": ["confirmed", "single_source", "conflict"]},
+          "sources": {"type": "array", "items": {"type": "string"}},
+          "evidence": {"type": "array"}
+        }
+      }
+    },
+    "career_statistics": {
+      "type": ["object", "null"],
+      "properties": {
+        "goalie": {"type": "boolean"},
+        "regular_season": {"type": "array", "items": {"$ref": "#/$defs/stat_row"}},
+        "playoffs": {"type": "array", "items": {"$ref": "#/$defs/stat_row"}},
+        "regular_season_totals": {"type": "object"},
+        "playoffs_totals": {"type": "object"},
+        "latest_season": {"type": "string"},
+        "sources": {"type": "array", "items": {"type": "string"}},
+        "conflicts": {"type": "array"}
+      }
+    },
+    "summary": {
+      "type": "object",
+      "properties": {
+        "total_nhl_contracts": {"type": "integer"},
+        "teams_played_for": {"type": "array", "items": {"type": "string"}},
+        "times_traded": {"type": "integer"},
+        "under_contract_through": {"type": ["string", "null"]},
+        "current_cap_hit_usd": {"type": ["integer", "null"]}
+      }
+    },
+    "verification": {
+      "type": "object",
+      "properties": {
+        "warnings": {"type": "array", "items": {"type": "string"}},
+        "dropped_unverified_items": {"type": "integer"},
+        "pages_read": {"type": "integer"}
+      }
+    },
+    "sources": {"type": "array"},
+    "generated_at": {"type": "string"},
+    "generator": {"type": "object"}
+  },
+  "$defs": {
+    "stat_row": {
+      "type": "object",
+      "required": ["season", "team", "gp"],
+      "properties": {
+        "season": {"type": "string", "pattern": "^\\d{4}-\\d{2}$"},
+        "team": {"type": "string"},
+        "gp": {"type": "integer"},
+        "status": {"enum": ["confirmed", "single_source", "conflict", "in_progress_sources_differ"]}
+      }
+    }
+  }
+}

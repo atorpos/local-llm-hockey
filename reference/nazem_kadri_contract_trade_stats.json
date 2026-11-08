@@ -1,0 +1,567 @@
+{
+  "player": {
+    "name": "Nazem Kadri",
+    "position": "C",
+    "shoots": "L",
+    "birth_date": "1990-10-06",
+    "birthplace": "London, ON, Canada",
+    "current_team": "Colorado Avalanche"
+  },
+  "draft": {
+    "year": 2009,
+    "round": 1,
+    "overall_pick": 7,
+    "team": "Toronto Maple Leafs"
+  },
+  "achievements": [
+    "Stanley Cup champion (2022, Colorado Avalanche)"
+  ],
+  "trade_history": [
+    {
+      "date": "2019-07-01",
+      "from_team": "Toronto Maple Leafs",
+      "to_team": "Colorado Avalanche",
+      "avalanche_received": [
+        "Nazem Kadri (C)",
+        "Calle Rosen (D)",
+        "2020 3rd-round pick (TOR)"
+      ],
+      "maple_leafs_received": [
+        "Tyson Barrie (D)",
+        "Alexander Kerfoot (C)",
+        "2020 6th-round pick (COL)"
+      ]
+    },
+    {
+      "date": "2026-03-06",
+      "from_team": "Calgary Flames",
+      "to_team": "Colorado Avalanche",
+      "avalanche_received": [
+        "Nazem Kadri (C)",
+        "2027 4th-round pick (CGY)"
+      ],
+      "flames_received": [
+        "Victor Olofsson (F)",
+        "Maxmilian Curran (F prospect, unsigned)",
+        "Conditional 2028 1st-round pick (COL)",
+        "Conditional 2027 2nd-round pick (COL)"
+      ],
+      "salary_retention": {
+        "calgary_retained_pct": 20,
+        "avalanche_cap_hit": 5600000
+      },
+      "notes": "Trade-deadline deal; pick conditions not specified in sources reviewed."
+    }
+  ],
+  "other_team_moves": [
+    {
+      "date": "2022-08-18",
+      "event": "Signed with Calgary Flames as an unrestricted free agent after winning the Cup with Colorado"
+    }
+  ],
+  "contracts": [
+    {
+      "contract_number": 1,
+      "type": "Entry-Level Contract",
+      "team": "Toronto Maple Leafs",
+      "signing_year": 2009,
+      "term_years": 3,
+      "seasons": [
+        "2010-11",
+        "2011-12",
+        "2012-13"
+      ],
+      "cap_hit": 1720000,
+      "base_salary_per_year": 810000,
+      "signing_bonus_per_year": 90000,
+      "performance_bonus_max_per_year": 850000,
+      "notes": "Slid one year after he played only 1 NHL game in 2009-10 (that game was paid under the ELC at a $900K cap hit). Cap hit of $1.72M includes max performance bonuses; $870K without them.",
+      "expiry_status": "RFA (2013)"
+    },
+    {
+      "contract_number": 2,
+      "type": "Standard Contract (RFA bridge)",
+      "team": "Toronto Maple Leafs",
+      "signing_year": 2013,
+      "term_years": 2,
+      "seasons": [
+        "2013-14",
+        "2014-15"
+      ],
+      "total_value": 5800000,
+      "cap_hit": 2900000,
+      "yearly_salary": {
+        "2013-14": 2700000,
+        "2014-15": 3100000
+      },
+      "expiry_status": "RFA (2015)"
+    },
+    {
+      "contract_number": 3,
+      "type": "Standard Contract (RFA, 1 year)",
+      "team": "Toronto Maple Leafs",
+      "signing_year": 2015,
+      "term_years": 1,
+      "seasons": [
+        "2015-16"
+      ],
+      "total_value": 4100000,
+      "cap_hit": 4100000,
+      "expiry_status": "RFA (2016)"
+    },
+    {
+      "contract_number": 4,
+      "type": "Standard Contract (RFA re-sign)",
+      "team": "Toronto Maple Leafs (traded to Colorado in year 4)",
+      "signing_year": 2016,
+      "term_years": 6,
+      "seasons": [
+        "2016-17",
+        "2017-18",
+        "2018-19",
+        "2019-20",
+        "2020-21",
+        "2021-22"
+      ],
+      "total_value": 27000000,
+      "cap_hit": 4500000,
+      "signing_bonus_per_year": 2000000,
+      "yearly_salary": {
+        "2016-17": 5000000,
+        "2017-18": 5000000,
+        "2018-19": 4500000,
+        "2019-20": 4500000,
+        "2020-21": 4000000,
+        "2021-22": 4000000
+      },
+      "clauses": "Modified no-trade clause (10-team no-trade list) for four seasons",
+      "expiry_status": "UFA (2022)"
+    },
+    {
+      "contract_number": 5,
+      "type": "Standard Contract (UFA)",
+      "team": "Calgary Flames (traded to Colorado in year 4)",
+      "signing_date": "2022-08-18",
+      "term_years": 7,
+      "seasons": [
+        "2022-23",
+        "2023-24",
+        "2024-25",
+        "2025-26",
+        "2026-27",
+        "2027-28",
+        "2028-29"
+      ],
+      "total_value": 49000000,
+      "cap_hit": 7000000,
+      "signing_bonus_total": 11000000,
+      "yearly_salary": {
+        "2022-23": 7000000,
+        "2023-24": 7000000,
+        "2024-25": 7000000,
+        "2025-26": 7000000,
+        "2026-27": 7000000,
+        "2027-28": 7000000,
+        "2028-29": 7000000
+      },
+      "clauses": {
+        "2022-23_to_2024-25": "No-movement clause",
+        "2025-26_to_2028-29": "Modified no-trade clause (13-team no-trade list)"
+      },
+      "retention": "Calgary retains 20% ($1.4M) of the cap hit through 2028-29 after the March 2026 trade",
+      "expiry_status": "UFA (2029)",
+      "status": "Active - with Colorado Avalanche"
+    }
+  ],
+  "career_statistics": {
+    "source_note": "Regular-season and playoff stats per Hockey-Reference; 2026-27 is partial.",
+    "regular_season": [
+      {
+        "season": "2009-10",
+        "age": 19,
+        "team": "TOR",
+        "gp": 1,
+        "g": 0,
+        "a": 0,
+        "pts": 0,
+        "plus_minus": -1,
+        "pim": 0
+      },
+      {
+        "season": "2010-11",
+        "age": 20,
+        "team": "TOR",
+        "gp": 29,
+        "g": 3,
+        "a": 9,
+        "pts": 12,
+        "plus_minus": -3,
+        "pim": 8
+      },
+      {
+        "season": "2011-12",
+        "age": 21,
+        "team": "TOR",
+        "gp": 21,
+        "g": 5,
+        "a": 2,
+        "pts": 7,
+        "plus_minus": 2,
+        "pim": 8
+      },
+      {
+        "season": "2012-13",
+        "age": 22,
+        "team": "TOR",
+        "gp": 48,
+        "g": 18,
+        "a": 26,
+        "pts": 44,
+        "plus_minus": 15,
+        "pim": 23
+      },
+      {
+        "season": "2013-14",
+        "age": 23,
+        "team": "TOR",
+        "gp": 78,
+        "g": 20,
+        "a": 30,
+        "pts": 50,
+        "plus_minus": -11,
+        "pim": 67
+      },
+      {
+        "season": "2014-15",
+        "age": 24,
+        "team": "TOR",
+        "gp": 73,
+        "g": 18,
+        "a": 21,
+        "pts": 39,
+        "plus_minus": -7,
+        "pim": 28
+      },
+      {
+        "season": "2015-16",
+        "age": 25,
+        "team": "TOR",
+        "gp": 76,
+        "g": 17,
+        "a": 28,
+        "pts": 45,
+        "plus_minus": -15,
+        "pim": 73
+      },
+      {
+        "season": "2016-17",
+        "age": 26,
+        "team": "TOR",
+        "gp": 82,
+        "g": 32,
+        "a": 29,
+        "pts": 61,
+        "plus_minus": -7,
+        "pim": 95
+      },
+      {
+        "season": "2017-18",
+        "age": 27,
+        "team": "TOR",
+        "gp": 80,
+        "g": 32,
+        "a": 23,
+        "pts": 55,
+        "plus_minus": 2,
+        "pim": 42
+      },
+      {
+        "season": "2018-19",
+        "age": 28,
+        "team": "TOR",
+        "gp": 73,
+        "g": 16,
+        "a": 28,
+        "pts": 44,
+        "plus_minus": -2,
+        "pim": 43
+      },
+      {
+        "season": "2019-20",
+        "age": 29,
+        "team": "COL",
+        "gp": 51,
+        "g": 19,
+        "a": 17,
+        "pts": 36,
+        "plus_minus": 7,
+        "pim": 97
+      },
+      {
+        "season": "2020-21",
+        "age": 30,
+        "team": "COL",
+        "gp": 56,
+        "g": 11,
+        "a": 21,
+        "pts": 32,
+        "plus_minus": -7,
+        "pim": 34
+      },
+      {
+        "season": "2021-22",
+        "age": 31,
+        "team": "COL",
+        "gp": 71,
+        "g": 28,
+        "a": 59,
+        "pts": 87,
+        "plus_minus": 13,
+        "pim": 71
+      },
+      {
+        "season": "2022-23",
+        "age": 32,
+        "team": "CGY",
+        "gp": 82,
+        "g": 24,
+        "a": 32,
+        "pts": 56,
+        "plus_minus": -19,
+        "pim": 56
+      },
+      {
+        "season": "2023-24",
+        "age": 33,
+        "team": "CGY",
+        "gp": 82,
+        "g": 29,
+        "a": 46,
+        "pts": 75,
+        "plus_minus": 0,
+        "pim": 43
+      },
+      {
+        "season": "2024-25",
+        "age": 34,
+        "team": "CGY",
+        "gp": 82,
+        "g": 35,
+        "a": 32,
+        "pts": 67,
+        "plus_minus": -17,
+        "pim": 72
+      },
+      {
+        "season": "2025-26",
+        "age": 35,
+        "team": "CGY",
+        "gp": 61,
+        "g": 12,
+        "a": 29,
+        "pts": 41,
+        "plus_minus": -27,
+        "pim": 24,
+        "note": "Split season: traded CGY to COL on 2026-03-06"
+      },
+      {
+        "season": "2025-26",
+        "age": 35,
+        "team": "COL",
+        "gp": 16,
+        "g": 4,
+        "a": 5,
+        "pts": 9,
+        "plus_minus": -3,
+        "pim": 6,
+        "note": "Split season: traded CGY to COL on 2026-03-06"
+      },
+      {
+        "season": "2026-27",
+        "age": 36,
+        "team": "COL",
+        "gp": 16,
+        "g": 5,
+        "a": 9,
+        "pts": 14,
+        "plus_minus": 1,
+        "pim": 4,
+        "note": "In progress (as of early Nov 2026)"
+      }
+    ],
+    "regular_season_totals": {
+      "gp": 1078,
+      "g": 328,
+      "a": 446,
+      "pts": 774,
+      "plus_minus": -79,
+      "pim": 794,
+      "points_per_game": 0.72
+    },
+    "regular_season_totals_by_team": {
+      "TOR": {
+        "gp": 561,
+        "g": 161,
+        "a": 196,
+        "pts": 357,
+        "plus_minus": -27,
+        "pim": 387,
+        "points_per_game": 0.64
+      },
+      "COL": {
+        "gp": 210,
+        "g": 67,
+        "a": 111,
+        "pts": 178,
+        "plus_minus": 11,
+        "pim": 212,
+        "points_per_game": 0.85
+      },
+      "CGY": {
+        "gp": 307,
+        "g": 100,
+        "a": 139,
+        "pts": 239,
+        "plus_minus": -63,
+        "pim": 195,
+        "points_per_game": 0.78
+      }
+    },
+    "playoffs": [
+      {
+        "season": "2012-13",
+        "age": 22,
+        "team": "TOR",
+        "gp": 7,
+        "g": 1,
+        "a": 3,
+        "pts": 4,
+        "plus_minus": 5,
+        "pim": 10
+      },
+      {
+        "season": "2016-17",
+        "age": 26,
+        "team": "TOR",
+        "gp": 6,
+        "g": 1,
+        "a": 1,
+        "pts": 2,
+        "plus_minus": 0,
+        "pim": 8
+      },
+      {
+        "season": "2017-18",
+        "age": 27,
+        "team": "TOR",
+        "gp": 4,
+        "g": 0,
+        "a": 2,
+        "pts": 2,
+        "plus_minus": 0,
+        "pim": 19
+      },
+      {
+        "season": "2018-19",
+        "age": 28,
+        "team": "TOR",
+        "gp": 2,
+        "g": 1,
+        "a": 1,
+        "pts": 2,
+        "plus_minus": 1,
+        "pim": 19
+      },
+      {
+        "season": "2019-20",
+        "age": 29,
+        "team": "COL",
+        "gp": 15,
+        "g": 9,
+        "a": 9,
+        "pts": 18,
+        "plus_minus": 3,
+        "pim": 10
+      },
+      {
+        "season": "2020-21",
+        "age": 30,
+        "team": "COL",
+        "gp": 2,
+        "g": 0,
+        "a": 1,
+        "pts": 1,
+        "plus_minus": -1,
+        "pim": 10
+      },
+      {
+        "season": "2021-22",
+        "age": 31,
+        "team": "COL",
+        "gp": 16,
+        "g": 7,
+        "a": 8,
+        "pts": 15,
+        "plus_minus": 7,
+        "pim": 8
+      },
+      {
+        "season": "2025-26",
+        "age": 35,
+        "team": "COL",
+        "gp": 13,
+        "g": 3,
+        "a": 6,
+        "pts": 9,
+        "plus_minus": 1,
+        "pim": 4
+      }
+    ],
+    "playoff_totals": {
+      "gp": 65,
+      "g": 22,
+      "a": 31,
+      "pts": 53,
+      "plus_minus": 16,
+      "pim": 88,
+      "points_per_game": 0.82
+    },
+    "playoff_totals_by_team": {
+      "TOR": {
+        "gp": 19,
+        "g": 3,
+        "a": 7,
+        "pts": 10,
+        "plus_minus": 6,
+        "pim": 56,
+        "points_per_game": 0.53
+      },
+      "COL": {
+        "gp": 46,
+        "g": 19,
+        "a": 24,
+        "pts": 43,
+        "plus_minus": 10,
+        "pim": 32,
+        "points_per_game": 0.93
+      }
+    }
+  },
+  "summary": {
+    "total_nhl_contracts": 5,
+    "teams_played_for": [
+      "Toronto Maple Leafs",
+      "Colorado Avalanche",
+      "Calgary Flames"
+    ],
+    "times_traded": 2,
+    "under_contract_through": "2028-29"
+  },
+  "sources": [
+    "https://puckpedia.com/player/nazem-kadri/contracts",
+    "https://www.hockey-reference.com/players/k/kadrina01.html",
+    "https://www.nhl.com/news/nazem-kadri-traded-to-colorado-avalanche-by-calgary-flames",
+    "https://ca.sports.yahoo.com/news/maple-leafs-acquire-tyson-barrie-alex-kerfoot-in-exchange-for-nazem-kadri-calle-rosen-230747248.html"
+  ],
+  "last_updated": "2026-11-06"
+}

@@ -1,0 +1,82 @@
+# NHL local research pipeline — settings
+# Tuned for a Mac mini M4 with 16 GB of RAM.
+
+[llm]
+# "ollama" (default) or "openai" for LM Studio / any OpenAI-compatible local server.
+provider = "ollama"
+base_url = "http://localhost:11434"     # LM Studio: "http://localhost:1234/v1"
+model = "qwen3:8b"                      # ~5 GB. Alternative: "llama3.1:8b"
+num_ctx = 16384                         # context window. 16K fits comfortably in 16 GB; 32K is tight.
+max_output_tokens = 2048
+temperature = 0
+timeout_s = 900                         # one call can take several minutes on a long page
+disable_thinking = true                 # Qwen3: skip the slow "thinking" phase
+
+[search]
+searxng_url = "http://localhost:8888"
+results_per_query = 10
+delay_between_searches_s = 1.5
+# {name} is replaced by the player's name, {team} by the optional team hint.
+queries = [
+  "\"{name}\" NHL contract signed",
+  "\"{name}\" contract extension cap hit",
+  "\"{name}\" traded {team}",
+  "\"{name}\" career statistics NHL",
+  "{name} puckpedia contract",
+  "{name} capwages",
+]
+
+[fetch]
+# Be honest about who you are. Put a real contact address here.
+user_agent = "PersonalHockeyResearch/0.1 (personal, non-commercial; contact: you@example.com)"
+min_delay_per_domain_s = 5              # wait at least this long between hits to the same site
+timeout_s = 25
+max_bytes = 5_000_000
+cache_dir = "cache"
+cache_ttl_days = 7
+max_pages_per_player = 8
+max_pages_per_domain = 2
+reserve_stats_pages = 2                 # always try to include this many stats-table pages
+
+[extract]
+# Characters of page text sent to the model per call (~3.7 chars per token).
+# 30 000 chars ≈ 8K tokens, which leaves room for instructions and output in a 16K context.
+max_chars_per_call = 30000
+max_calls_per_page = 2
+evidence_match_threshold = 88           # 0-100 fuzzy match of the quoted evidence against the page
+money_tolerance = 0.01                  # values must appear in the page within 1 %
+# Pages from these sites are mostly stats tables: read the tables with code, skip the model (saves minutes).
+skip_llm_domains = ["hockeydb.com", "quanthockey.com"]
+
+[sources]
+# Higher weight = more trusted when sources disagree. Matching is by domain suffix.
+stats_domains = ["en.wikipedia.org", "eliteprospects.com", "hockeydb.com", "quanthockey.com"]
+
+# Sites skipped on purpose:
+#  - Sports Reference sites: their terms forbid scraping and using content to prompt AI models.
+#  - Retail and social sites: block scrapers or are not reliable sources.
+#  - Paywalled sites: return no article text.
+blocked = [
+  "sports-reference.com", "hockey-reference.com", "pfref.com", "stathead.com",
+  "amazon.", "facebook.com", "instagram.com", "x.com", "twitter.com", "tiktok.com",
+  "youtube.com", "reddit.com", "pinterest.", "theathletic.com", "nytimes.com",
+]
+
+[sources.weights]
+"nhl.com" = 3.0
+"puckpedia.com" = 2.5
+"capwages.com" = 2.5
+"spotrac.com" = 2.0
+"en.wikipedia.org" = 2.0
+"eliteprospects.com" = 2.0
+"espn.com" = 2.0
+"tsn.ca" = 2.0
+"sportsnet.ca" = 2.0
+"hockeydb.com" = 1.5
+"prohockeyrumors.com" = 1.5
+"cbssports.com" = 1.5
+"si.com" = 1.5
+"nbcsports.com" = 1.5
+"thescore.com" = 1.5
+"apnews.com" = 1.8
+"quanthockey.com" = 1.2

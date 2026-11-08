@@ -1,0 +1,130 @@
+{
+  "player": {
+    "name": "Connor Hellebuyck",
+    "position": "G",
+    "catches": "L",
+    "birth_date": "1993-05-19",
+    "birthplace": "Commerce, MI, USA",
+    "current_team": "New Jersey Devils"
+  },
+  "draft": {
+    "year": 2012,
+    "round": 5,
+    "overall_pick": 130,
+    "team": "Winnipeg Jets"
+  },
+  "trade_history": [
+    {
+      "date": "2026-10-23",
+      "from_team": "Winnipeg Jets",
+      "to_team": "New Jersey Devils",
+      "devils_received": ["Connor Hellebuyck (G)"],
+      "jets_received": [
+        "Dawson Mercer (F)",
+        "Nick Bjugstad (F)",
+        "Nico Daws (G)",
+        "Alexander Command (C prospect)",
+        "2029 2nd-round pick (NJD)",
+        "2027 7th-round pick (NJD)"
+      ],
+      "salary_retention": "None reported",
+      "background": [
+        { "date": "2026-08-27", "event": "Trade request made public via a statement from his agent, Ray Petkau; he said he had asked privately months earlier." },
+        { "date": "2026-09", "event": "Suspended by the Jets for not reporting to training camp." },
+        { "date": "2026-10-23", "event": "Traded to the Devils." }
+      ]
+    }
+  ],
+  "contracts": [
+    {
+      "contract_number": 1,
+      "type": "Entry-Level Contract",
+      "team": "Winnipeg Jets",
+      "signing_year": 2014,
+      "term_years": 3,
+      "seasons": ["2014-15", "2015-16", "2016-17"],
+      "total_value": 2775000,
+      "cap_hit": 925000,
+      "yearly_salary": {
+        "2014-15": 642500,
+        "2015-16": 667500,
+        "2016-17": 692500
+      },
+      "notes": "Each year also carried a $92,500 signing bonus and performance bonuses; minors salary $70,000.",
+      "expiry_status": "RFA (2017)"
+    },
+    {
+      "contract_number": 2,
+      "type": "Standard Contract (RFA bridge)",
+      "team": "Winnipeg Jets",
+      "signing_year": 2017,
+      "term_years": 1,
+      "seasons": ["2017-18"],
+      "total_value": 2250000,
+      "cap_hit": 2250000,
+      "base_salary": 2000000,
+      "signing_bonus": 250000,
+      "expiry_status": "RFA (2018)"
+    },
+    {
+      "contract_number": 3,
+      "type": "Standard Contract (RFA re-sign)",
+      "team": "Winnipeg Jets",
+      "signing_year": 2018,
+      "term_years": 6,
+      "seasons": ["2018-19", "2019-20", "2020-21", "2021-22", "2022-23", "2023-24"],
+      "total_value": 36999996,
+      "cap_hit": 6166666,
+      "yearly_salary": {
+        "2018-19": 7000000,
+        "2019-20": 6000000,
+        "2020-21": 4500000,
+        "2021-22": 7500000,
+        "2022-23": 4500000,
+        "2023-24": 7500000
+      },
+      "expiry_status": "UFA (2024)"
+    },
+    {
+      "contract_number": 4,
+      "type": "Contract Extension",
+      "team": "Winnipeg Jets (traded to New Jersey Devils in year 3)",
+      "signing_year": 2023,
+      "term_years": 7,
+      "seasons": ["2024-25", "2025-26", "2026-27", "2027-28", "2028-29", "2029-30", "2030-31"],
+      "total_value": 59500000,
+      "cap_hit": 8500000,
+      "signing_bonus_total": 5000000,
+      "yearly_salary": {
+        "2024-25": 10000000,
+        "2025-26": 10000000,
+        "2026-27": 7500000,
+        "2027-28": 10000000,
+        "2028-29": 9000000,
+        "2029-30": 7000000,
+        "2030-31": 6000000
+      },
+      "clauses": {
+        "2024-25_to_2026-27": "No-movement clause",
+        "2027-28_to_2030-31": "Modified no-trade clause (10-team approved trade list)"
+      },
+      "expiry_status": "UFA (2031)",
+      "status": "Active - with New Jersey Devils",
+      "notes": "Signed alongside Mark Scheifele's matching 7-year, $59.5M extension."
+    }
+  ],
+  "summary": {
+    "total_nhl_contracts": 4,
+    "teams_played_for": ["Winnipeg Jets", "New Jersey Devils"],
+    "times_traded": 1,
+    "under_contract_through": "2030-31"
+  },
+  "sources": [
+    "https://puckpedia.com/player/connor-hellebuyck/contracts",
+    "https://www.nhl.com/devils/news/hellebuyck-acquired-by-devils-release-10-23-26",
+    "https://www.prohockeyrumors.com/2026/10/devils-jets-working-on-connor-hellebuyck-trade.html",
+    "https://www.nhl.com/news/connor-hellebuyck-winnipeg-jets-trade-request",
+    "https://www.cbssports.com/nhl/news/jets-sign-connor-hellebuyck-mark-scheifele-to-seven-year-59-5-million-contract-extensions"
+  ],
+  "last_updated": "2026-11-06"
+}

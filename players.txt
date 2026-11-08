@@ -1,0 +1,5 @@
+# One player per line. Optional team hint after "|" helps with common names.
+Cale Makar | Colorado Avalanche
+Nazem Kadri | Colorado Avalanche
+Patrick Kane | Chicago Blackhawks
+Connor Hellebuyck | New Jersey Devils

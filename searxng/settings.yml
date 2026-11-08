@@ -1,0 +1,23 @@
+# Minimal SearXNG settings for local, single-user use.
+use_default_settings: true
+
+server:
+  # Replace with any long random string, e.g. the output of:  openssl rand -hex 32
+  secret_key: "change-me-to-a-long-random-string"
+  limiter: false          # no bot limiter needed: only your Mac can reach it
+  image_proxy: false
+
+search:
+  safe_search: 0
+  formats:
+    - html
+    - json                # the pipeline reads JSON results
+
+# If results get thin (some engines rate-limit or show CAPTCHAs), enable more engines here.
+engines:
+  - name: brave
+    disabled: false
+  - name: duckduckgo
+    disabled: false
+  - name: bing
+    disabled: false

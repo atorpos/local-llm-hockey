@@ -1,0 +1,90 @@
+{
+  "player": {
+    "name": "Cale Makar",
+    "position": "D",
+    "shoots": "R",
+    "birth_date": "1998-10-30",
+    "birthplace": "Calgary, AB, Canada",
+    "current_team": "Colorado Avalanche",
+    "agent": "Brian & Scott Bartlett (Bartlett Hockey)"
+  },
+  "draft": {
+    "year": 2017,
+    "round": 1,
+    "overall_pick": 4,
+    "team": "Colorado Avalanche",
+    "college_after_draft": "UMass Minutemen (NCAA), 2017-2019"
+  },
+  "trade_history": [],
+  "trade_history_note": "Makar has never been traded. He has spent his entire NHL career with the Colorado Avalanche, the team that drafted him.",
+  "contracts": [
+    {
+      "contract_number": 1,
+      "type": "Entry-Level Contract",
+      "team": "Colorado Avalanche",
+      "signing_date": "2019-04-14",
+      "signing_gm": "Joe Sakic",
+      "term_years": 3,
+      "seasons": ["2018-19", "2019-20", "2020-21"],
+      "cap_hit": 880833,
+      "total_value_base_and_signing": 2642499,
+      "max_value_including_performance_bonuses": 8562500,
+      "signing_bonus_total": 277500,
+      "expiry_status": "RFA",
+      "notes": "Signed the day before his NHL debut in the 2019 playoffs; the first year was burned during that playoff run."
+    },
+    {
+      "contract_number": 2,
+      "type": "Standard Contract (RFA re-sign)",
+      "team": "Colorado Avalanche",
+      "signing_date": "2021-07-24",
+      "signing_gm": "Joe Sakic",
+      "term_years": 6,
+      "seasons": ["2021-22", "2022-23", "2023-24", "2024-25", "2025-26", "2026-27"],
+      "total_value": 54000000,
+      "cap_hit": 9000000,
+      "yearly_salary": {
+        "2021-22": 8000000,
+        "2022-23": 9000000,
+        "2023-24": 11000000,
+        "2024-25": 10600000,
+        "2025-26": 8700000,
+        "2026-27": 6700000
+      },
+      "expiry_status": "UFA (would have been 2027)",
+      "status": "Active - final season (2026-27)"
+    },
+    {
+      "contract_number": 3,
+      "type": "Contract Extension",
+      "team": "Colorado Avalanche",
+      "signing_date": "2026-08-28",
+      "signing_executive": "Joe Sakic (President of Hockey Operations)",
+      "term_years": 8,
+      "seasons": ["2027-28", "2028-29", "2029-30", "2030-31", "2031-32", "2032-33", "2033-34", "2034-35"],
+      "start_date": "2027-07-01",
+      "total_value": 163200000,
+      "cap_hit": 20400000,
+      "clauses": ["Full no-movement clause"],
+      "expiry_status": "UFA (2035)",
+      "status": "Signed - takes effect 2027-28",
+      "notes": "Richest contract in NHL history by total value and AAV at signing; first $20M+ AAV in league history. Signed before the new CBA cut max extension length to seven years. Year-by-year salary breakdown not confirmed in sources reviewed."
+    }
+  ],
+  "summary": {
+    "total_nhl_contracts": 3,
+    "career_contract_value_signed_excluding_elc_bonuses": 219842499,
+    "under_contract_through": "2034-35",
+    "times_traded": 0
+  },
+  "sources": [
+    "https://capwages.com/players/cale-makar",
+    "https://puckpedia.com/player/i/16946",
+    "https://africa.espn.com/nhl/story/_/id/31875002/colorado-avalanche-re-sign-cale-makar-six-year-54m-contract",
+    "https://www.si.com/nhl/avalanche/onsi/news/cale-makar-signs-historic-8-year-contract-with-avalanche",
+    "https://www.eliteprospects.com/transfer/2026/08/28/cale-makar-in-a-contract-extension-to-colorado-avalanche/647718",
+    "https://www.rotoballer.com/?p=1919899",
+    "https://gazette.com/?p=2045845"
+  ],
+  "last_updated": "2026-11-06"
+}
