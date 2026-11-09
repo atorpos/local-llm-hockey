@@ -251,3 +251,59 @@ python -m pytest -q
 The tests run offline with fake web pages, a fake search engine and a fake model. They cover the
 politeness rules, table reading, the anti-hallucination checks, merging and export. **The first run on your
 Mac is the first time it meets real websites and a real model**, so start with one player and `--debug`.
+
+## 10. Hourly game tracker (no AI model needed)
+
+`daily.py` records, for every finished game:
+- the **game-winning goal**
+- **power-play**, **shorthanded** and **empty-net goals**
+- **shutouts**
+
+It also keeps **season leaderboards** for each of those and a **standings** snapshot. The data comes from the
+NHL's public game feed and is computed by code, so it's exact, fast, and light enough for the 16 GB Mac mini
+to run all day.
+
+**Try it once:**
+```bash
+python daily.py --date 2026-11-08
+```
+
+**Fill in the season so far** (about one request per day, plus a few extra for shutouts):
+```bash
+python daily.py --from 2026-10-01
+```
+
+**Run it every hour in the background:**
+```bash
+chmod +x schedule_hourly.sh
+./schedule_hourly.sh
+```
+Each run checks yesterday and today (late games finish after midnight). Finished games are saved once and
+never fetched again. Remove the job with `./schedule_hourly.sh --remove`.
+
+**Output** in `out/games/`:
+
+| File | Contents |
+|---|---|
+| `2026-11-08.json` | every finished game that day, with GWG, PP/SH/EN goals, shutouts and score |
+| `leaders-20262027-regular.json` | season leaders: GWG, PPG, SHG, ENG, shutouts (playoffs get their own file) |
+| `standings.json` | current standings: points, record, last 10, streak, goal difference |
+| `last_run.json` | when it last ran, and any warnings |
+
+Everything is also stored in `data/nhl_games.db` (SQLite).
+
+**Rules used:**
+- **Game-winning goal:** the winning team's goal that gives it one more than the loser's final total. Shootout
+  wins have no individual game-winning goal.
+- **Shutout:** a goalie gets one only if he played the whole game alone. If two goalies shared it, it's a team
+  shutout. In a 0-0 game decided by a shootout, both goalies are credited.
+- **Incomplete feed:** if a game's goal list doesn't add up to the final score, the game is flagged, stored
+  without a game-winning goal, and re-checked next hour.
+
+**Tips:**
+- Keep the Mac mini from sleeping: System Settings → Energy → "Prevent automatic sleeping".
+- If `logs/daily.log` shows "Operation not permitted" while the project is on the external SSD, give Python
+  access under System Settings → Privacy & Security → Files and Folders (Removable Volumes). Or move the
+  project to your home folder.
+- The NHL feed is free and needs no key, but it's unofficial. That's fine for personal use; a commercial
+  product should license official data.

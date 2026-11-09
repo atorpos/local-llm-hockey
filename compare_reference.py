@@ -3,6 +3,7 @@
 
   python compare_reference.py out/players/nazem-kadri.json reference/nazem_kadri_contract_trade_stats.json
   python compare_reference.py --all        # every reference file that has a matching output
+  python compare_reference.py --all out-gemma4   # same, for a run saved with --out out-gemma4
 """
 from __future__ import annotations
 
@@ -86,17 +87,20 @@ def report(out_path: Path, ref_path: Path) -> tuple[int, int]:
 
 
 def main():
-    if len(sys.argv) == 3:
-        report(Path(sys.argv[1]), Path(sys.argv[2]))
-        return
-    if sys.argv[1:] == ["--all"]:
+    if sys.argv[1:2] == ["--all"]:
+        out_dir = Path(sys.argv[2]) if len(sys.argv) > 2 else ROOT / "out"
+        if not out_dir.is_absolute():
+            out_dir = ROOT / out_dir
         tp = tt = 0
         for ref_name, slug in REF_TO_SLUG.items():
-            o = ROOT / "out" / "players" / f"{slug}.json"
+            o = out_dir / "players" / f"{slug}.json"
             if o.exists():
                 p, t = report(o, ROOT / "reference" / ref_name)
                 tp, tt = tp + p, tt + t
         print(f"\nOVERALL: {tp}/{tt}")
+        return
+    if len(sys.argv) == 3:
+        report(Path(sys.argv[1]), Path(sys.argv[2]))
         return
     print(__doc__)
 
