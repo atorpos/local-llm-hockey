@@ -1,0 +1,342 @@
+{
+  "schema_version": "1.0",
+  "player": {
+    "name": "Cale Makar",
+    "slug": "cale-makar",
+    "position": "defenseman",
+    "shoots": "Right",
+    "birth_date": "1998-10-30",
+    "birthplace": "Calgary, Alberta",
+    "current_team": "Colorado Avalanche",
+    "current_team_abbr": "COL"
+  },
+  "draft": {
+    "year": 2017,
+    "round": 1,
+    "overall_pick": 4,
+    "team": "Colorado Avalanche",
+    "team_abbr": "COL"
+  },
+  "contracts": [
+    {
+      "team_abbr": "COL",
+      "contract_type": "entry_level",
+      "signing_date": "2019-04-14",
+      "first_season": "2018-19",
+      "term_years": 3,
+      "cap_hit_usd": 880833,
+      "total_value_usd": 2642500,
+      "clauses": [],
+      "team": "Colorado Avalanche",
+      "status": "single_source",
+      "conflicts": [],
+      "derived_fields": [],
+      "sources": [
+        "https://capwages.com/players/cale-makar"
+      ],
+      "evidence": [
+        {
+          "url": "https://capwages.com/players/cale-makar",
+          "quote": "Cale Makar signed a 3 year, $8,562,500 contract with the Colorado Avalanche on Apr. 14, 2019."
+        }
+      ],
+      "seasons": [
+        "2018-19",
+        "2019-20",
+        "2020-21"
+      ],
+      "contract_number": 1
+    },
+    {
+      "team_abbr": "COL",
+      "contract_type": "extension",
+      "signing_date": "2021-07-24",
+      "first_season": "2021-22",
+      "term_years": 6,
+      "cap_hit_usd": 9000000,
+      "total_value_usd": 54000000,
+      "clauses": [],
+      "team": "Colorado Avalanche",
+      "status": "confirmed",
+      "conflicts": [],
+      "derived_fields": [],
+      "sources": [
+        "https://capwages.com/players/cale-makar",
+        "https://www.espn.com/nhl/story/_/id/49806920/nhl-2026-27-cale-makar-contract-winners-losers-salary-cap-quinn-hughes"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.espn.com/nhl/story/_/id/49806920/nhl-2026-27-cale-makar-contract-winners-losers-salary-cap-quinn-hughes",
+          "quote": "Of course, Makar will have made $54 million on his current deal before starting on a $163 million contract in 2027-28."
+        },
+        {
+          "url": "https://capwages.com/players/cale-makar",
+          "quote": "Cale Makar signed a 6 year, $54,000,000 contract with the Colorado Avalanche on Jul. 24, 2021."
+        }
+      ],
+      "seasons": [
+        "2021-22",
+        "2022-23",
+        "2023-24",
+        "2024-25",
+        "2025-26",
+        "2026-27"
+      ],
+      "contract_number": 2
+    },
+    {
+      "team_abbr": "COL",
+      "contract_type": "unknown",
+      "signing_date": "2021-07-24",
+      "first_season": "2021-22",
+      "term_years": 6,
+      "cap_hit_usd": null,
+      "total_value_usd": null,
+      "clauses": [],
+      "team": "Colorado Avalanche",
+      "status": "single_source",
+      "conflicts": [],
+      "derived_fields": [
+        "first_season (from signing date)"
+      ],
+      "sources": [
+        "https://www.nhl.com/avalanche/news/avalanche-signs-makar-to-eight-year-extension"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.nhl.com/avalanche/news/avalanche-signs-makar-to-eight-year-extension",
+          "quote": "Makar has one year remaining on his current six-year deal that he signed on July 24, 2021."
+        }
+      ],
+      "seasons": [
+        "2021-22",
+        "2022-23",
+        "2023-24",
+        "2024-25",
+        "2025-26",
+        "2026-27"
+      ],
+      "contract_number": 3
+    },
+    {
+      "team_abbr": "COL",
+      "contract_type": "extension",
+      "signing_date": "2026-08-28",
+      "first_season": "2027-28",
+      "term_years": 8,
+      "cap_hit_usd": 20400000,
+      "total_value_usd": 163200000,
+      "clauses": [
+        "full no-move protection"
+      ],
+      "team": "Colorado Avalanche",
+      "status": "conflict",
+      "conflicts": [
+        {
+          "field": "cap_hit_usd",
+          "chosen": 20400000,
+          "other_reported": [
+            20800000
+          ]
+        }
+      ],
+      "derived_fields": [],
+      "sources": [
+        "https://capwages.com/players/cale-makar",
+        "https://www.espn.com/nhl/story/_/id/49806920/nhl-2026-27-cale-makar-contract-winners-losers-salary-cap-quinn-hughes"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.espn.com/nhl/story/_/id/49806920/nhl-2026-27-cale-makar-contract-winners-losers-salary-cap-quinn-hughes",
+          "quote": "His deal is worth $163.2 million over eight seasons."
+        },
+        {
+          "url": "https://capwages.com/players/cale-makar",
+          "quote": "Cale Makar signs an eight-year extension with the Colorado Avalanche, cementing his role as the franchise’s elite number-one defenseman."
+        }
+      ],
+      "seasons": [
+        "2027-28",
+        "2028-29",
+        "2029-30",
+        "2030-31",
+        "2031-32",
+        "2032-33",
+        "2033-34",
+        "2034-35"
+      ],
+      "contract_number": 4
+    },
+    {
+      "team_abbr": "COL",
+      "contract_type": "extension",
+      "signing_date": "2026-08-28",
+      "first_season": "2035-36",
+      "term_years": 8,
+      "cap_hit_usd": null,
+      "total_value_usd": null,
+      "clauses": [],
+      "team": "Colorado Avalanche",
+      "status": "single_source",
+      "conflicts": [],
+      "derived_fields": [
+        "first_season (follows previous contract)"
+      ],
+      "sources": [
+        "https://www.nhl.com/avalanche/news/avalanche-signs-makar-to-eight-year-extension"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.nhl.com/avalanche/news/avalanche-signs-makar-to-eight-year-extension",
+          "quote": "The Colorado Avalanche Hockey Club announced today that the organization has signed defenseman Cale Makar to an eight-year contract extension through the 2034-35 season."
+        }
+      ],
+      "seasons": [
+        "2035-36",
+        "2036-37",
+        "2037-38",
+        "2038-39",
+        "2039-40",
+        "2040-41",
+        "2041-42",
+        "2042-43"
+      ],
+      "contract_number": 5
+    },
+    {
+      "team_abbr": "COL",
+      "contract_type": "extension",
+      "signing_date": null,
+      "first_season": "2043-44",
+      "term_years": 8,
+      "cap_hit_usd": null,
+      "total_value_usd": null,
+      "clauses": [],
+      "team": "Colorado Avalanche",
+      "status": "single_source",
+      "conflicts": [],
+      "derived_fields": [
+        "first_season (follows previous contract)"
+      ],
+      "sources": [
+        "https://www.nhl.com/news/cale-makar-signs-eight-year-contract-with-colorado-avalanche"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.nhl.com/news/cale-makar-signs-eight-year-contract-with-colorado-avalanche",
+          "quote": "“A lot of guys are going mid-term, and we just decided we wanted to do the full eight-year term,” Sakic said."
+        }
+      ],
+      "seasons": [
+        "2043-44",
+        "2044-45",
+        "2045-46",
+        "2046-47",
+        "2047-48",
+        "2048-49",
+        "2049-50",
+        "2050-51"
+      ],
+      "contract_number": 6
+    }
+  ],
+  "trade_history": [],
+  "career_statistics": null,
+  "summary": {
+    "total_nhl_contracts": 6,
+    "teams_played_for": [],
+    "times_traded": 0,
+    "under_contract_through": "2050-51",
+    "current_cap_hit_usd": 9000000
+  },
+  "sources": [
+    {
+      "url": "https://www.nhl.com/news/cale-makar-signs-eight-year-contract-with-colorado-avalanche",
+      "domain": "nhl.com",
+      "title": "Makar signs record 8-year, $163.2 million contract with Avalanche, worth $20.4M annually | NHL.com",
+      "published": "2026-08-31",
+      "fetched_at": "2026-11-09T15:01:15+00:00",
+      "weight": 3.0,
+      "used_for": [
+        "contracts"
+      ]
+    },
+    {
+      "url": "https://www.espn.com/nhl/story/_/id/49806920/nhl-2026-27-cale-makar-contract-winners-losers-salary-cap-quinn-hughes",
+      "domain": "espn.com",
+      "title": "Winners and losers of Cale Makar's $163.2 million contract",
+      "published": "2026-09-03",
+      "fetched_at": "2026-11-09T15:01:50+00:00",
+      "weight": 2.0,
+      "used_for": [
+        "contracts"
+      ]
+    },
+    {
+      "url": "https://www.nhl.com/avalanche/news/avalanche-signs-makar-to-eight-year-extension",
+      "domain": "nhl.com",
+      "title": "Avalanche Signs Makar To Eight-Year Extension | Colorado Avalanche",
+      "published": "2026-08-28",
+      "fetched_at": "2026-11-09T15:02:34+00:00",
+      "weight": 3.0,
+      "used_for": [
+        "contracts"
+      ]
+    },
+    {
+      "url": "https://capwages.com/players/cale-makar",
+      "domain": "capwages.com",
+      "title": "Cale Makar | 8yrs x 20.400M (COL)",
+      "published": "2024-10-09",
+      "fetched_at": "2026-11-09T15:03:19+00:00",
+      "weight": 2.5,
+      "used_for": [
+        "contracts"
+      ]
+    }
+  ],
+  "generated_at": "2026-11-09T15:04:26+00:00",
+  "generator": {
+    "pipeline_version": "1.0",
+    "model": "gemma4:12b",
+    "provider": "ollama"
+  },
+  "verification": {
+    "warnings": [
+      "contract 1: only one source — verify before relying on it",
+      "contract 3: season 2021-22 also covered by contract 2",
+      "contract 3: season 2022-23 also covered by contract 2",
+      "contract 3: season 2023-24 also covered by contract 2",
+      "contract 3: season 2024-25 also covered by contract 2",
+      "contract 3: season 2025-26 also covered by contract 2",
+      "contract 3: season 2026-27 also covered by contract 2",
+      "contract 3: only one source — verify before relying on it",
+      "contract 4: sources disagree — see 'conflicts'",
+      "contract 5: only one source — verify before relying on it",
+      "contract 6: only one source — verify before relying on it"
+    ],
+    "dropped_unverified_items": 0,
+    "dropped_examples": [],
+    "pages_read": 4,
+    "pages_skipped": [
+      {
+        "url": "https://www.eliteprospects.com/player/199655/cale-makar",
+        "reason": "not fetched (blocked, robots.txt or error)"
+      },
+      {
+        "url": "https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=178719",
+        "reason": "not fetched (blocked, robots.txt or error)"
+      },
+      {
+        "url": "https://puckpedia.com/player/cale-makar",
+        "reason": "not fetched (blocked, robots.txt or error)"
+      },
+      {
+        "url": "https://www.spotrac.com/nhl/player/_/id/23683/cale-makar",
+        "reason": "not fetched (blocked, robots.txt or error)"
+      }
+    ],
+    "seconds": 210.1,
+    "schema_valid": true
+  }
+}

@@ -1,0 +1,473 @@
+{
+  "schema_version": "1.0",
+  "player": {
+    "name": "Patrick Kane",
+    "slug": "patrick-kane",
+    "position": "forward",
+    "shoots": "Left",
+    "birth_date": "1988-11-19",
+    "birthplace": "Buffalo, NY",
+    "current_team": "Chicago Blackhawks",
+    "current_team_abbr": "CHI"
+  },
+  "draft": {
+    "year": 2007,
+    "round": 1,
+    "overall_pick": 1,
+    "team": "Chicago Blackhawks",
+    "team_abbr": "CHI"
+  },
+  "contracts": [
+    {
+      "team_abbr": "CHI",
+      "contract_type": "entry_level",
+      "signing_date": "2007-07-25",
+      "first_season": "2007-08",
+      "term_years": 3,
+      "cap_hit_usd": 875000,
+      "total_value_usd": 11175000,
+      "clauses": [
+        "Full No Move Clause"
+      ],
+      "team": "Chicago Blackhawks",
+      "status": "single_source",
+      "conflicts": [],
+      "derived_fields": [],
+      "sources": [
+        "https://capwages.com/players/patrick-kane"
+      ],
+      "evidence": [
+        {
+          "url": "https://capwages.com/players/patrick-kane",
+          "quote": "Patrick Kane signed a 3 year, $11,175,000 contract with the Chicago Blackhawks on Jul. 25, 2007. The contract has a cap hit of $875,000."
+        }
+      ],
+      "seasons": [
+        "2007-08",
+        "2008-09",
+        "2009-10"
+      ],
+      "contract_number": 1
+    },
+    {
+      "team_abbr": "CHI",
+      "contract_type": "extension",
+      "signing_date": "2009-12-02",
+      "first_season": "2010-11",
+      "term_years": 5,
+      "cap_hit_usd": 6300000,
+      "total_value_usd": 31500000,
+      "clauses": [
+        "Full No Move Clause"
+      ],
+      "team": "Chicago Blackhawks",
+      "status": "single_source",
+      "conflicts": [],
+      "derived_fields": [],
+      "sources": [
+        "https://capwages.com/players/patrick-kane"
+      ],
+      "evidence": [
+        {
+          "url": "https://capwages.com/players/patrick-kane",
+          "quote": "Patrick Kane signed a 5 year, $31,500,000 contract with the Chicago Blackhawks on Dec. 2, 2009. The contract has a cap hit of $6,300,000."
+        }
+      ],
+      "seasons": [
+        "2010-11",
+        "2011-12",
+        "2012-13",
+        "2013-14",
+        "2014-15"
+      ],
+      "contract_number": 2
+    },
+    {
+      "team_abbr": "CHI",
+      "contract_type": "extension",
+      "signing_date": "2014-07-09",
+      "first_season": "2015-16",
+      "term_years": 8,
+      "cap_hit_usd": 10500000,
+      "total_value_usd": 84000000,
+      "clauses": [
+        "Full No Move Clause"
+      ],
+      "team": "Chicago Blackhawks",
+      "status": "single_source",
+      "conflicts": [],
+      "derived_fields": [],
+      "sources": [
+        "https://capwages.com/players/patrick-kane"
+      ],
+      "evidence": [
+        {
+          "url": "https://capwages.com/players/patrick-kane",
+          "quote": "Patrick Kane signed a 8 year, $84,000,000 contract with the Chicago Blackhawks on Jul. 9, 2014. The contract has a cap hit of $10,500,000."
+        }
+      ],
+      "seasons": [
+        "2015-16",
+        "2016-17",
+        "2017-18",
+        "2018-19",
+        "2019-20",
+        "2020-21",
+        "2021-22",
+        "2022-23"
+      ],
+      "contract_number": 3
+    },
+    {
+      "team_abbr": "CHI",
+      "contract_type": "unknown",
+      "signing_date": "2015-07-01",
+      "first_season": "2015-16",
+      "term_years": 8,
+      "cap_hit_usd": null,
+      "total_value_usd": null,
+      "clauses": [
+        "no-move clause"
+      ],
+      "team": "Chicago Blackhawks",
+      "status": "single_source",
+      "conflicts": [],
+      "derived_fields": [
+        "first_season (from signing date)"
+      ],
+      "sources": [
+        "https://www.nhl.com/news/patrick-kane-traded-to-new-york-rangers-from-chicago-blackhawks-341625462"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.nhl.com/news/patrick-kane-traded-to-new-york-rangers-from-chicago-blackhawks-341625462",
+          "quote": "last of an eight-year contract that contains a no-move clause that gave him the final approval of the trade."
+        }
+      ],
+      "seasons": [
+        "2015-16",
+        "2016-17",
+        "2017-18",
+        "2018-19",
+        "2019-20",
+        "2020-21",
+        "2021-22",
+        "2022-23"
+      ],
+      "contract_number": 4
+    },
+    {
+      "team_abbr": "DET",
+      "contract_type": "extension",
+      "signing_date": "2023-11-28",
+      "first_season": "2023-24",
+      "term_years": 1,
+      "cap_hit_usd": 2750000,
+      "total_value_usd": 2750000,
+      "clauses": [
+        "No Trade Clause"
+      ],
+      "team": "Detroit Red Wings",
+      "status": "single_source",
+      "conflicts": [],
+      "derived_fields": [],
+      "sources": [
+        "https://capwages.com/players/patrick-kane"
+      ],
+      "evidence": [
+        {
+          "url": "https://capwages.com/players/patrick-kane",
+          "quote": "Patrick Kane signed a 1 year, $2,750,000 contract with the Detroit Red Wings on Nov. 28, 2023. The contract has a cap hit of $2,750,000."
+        }
+      ],
+      "seasons": [
+        "2023-24"
+      ],
+      "contract_number": 5
+    },
+    {
+      "team_abbr": "DET",
+      "contract_type": "extension",
+      "signing_date": "2024-06-30",
+      "first_season": "2024-25",
+      "term_years": 1,
+      "cap_hit_usd": 4000000,
+      "total_value_usd": 4000000,
+      "clauses": [
+        "No Trade Clause"
+      ],
+      "team": "Detroit Red Wings",
+      "status": "single_source",
+      "conflicts": [],
+      "derived_fields": [],
+      "sources": [
+        "https://capwages.com/players/patrick-kane"
+      ],
+      "evidence": [
+        {
+          "url": "https://capwages.com/players/patrick-kane",
+          "quote": "Patrick Kane signed a 1 year, $6,500,000 contract with the Detroit Red Wings on Jun. 30, 2024. The contract has a cap hit of $4,000,000."
+        }
+      ],
+      "seasons": [
+        "2024-25"
+      ],
+      "contract_number": 6
+    },
+    {
+      "team_abbr": "DET",
+      "contract_type": "extension",
+      "signing_date": "2025-06-30",
+      "first_season": "2025-26",
+      "term_years": 1,
+      "cap_hit_usd": 3000000,
+      "total_value_usd": 3000000,
+      "clauses": [
+        "No Trade Clause"
+      ],
+      "team": "Detroit Red Wings",
+      "status": "single_source",
+      "conflicts": [],
+      "derived_fields": [],
+      "sources": [
+        "https://capwages.com/players/patrick-kane"
+      ],
+      "evidence": [
+        {
+          "url": "https://capwages.com/players/patrick-kane",
+          "quote": "Patrick Kane signed a one-year contract extension with the Detroit Red Wings. Kane is a veteran forward known for his elite playmaking, scoring ability, and experience."
+        }
+      ],
+      "seasons": [
+        "2025-26"
+      ],
+      "contract_number": 7
+    },
+    {
+      "team_abbr": "CHI",
+      "contract_type": "extension",
+      "signing_date": "2026-07-23",
+      "first_season": "2026-27",
+      "term_years": 2,
+      "cap_hit_usd": 8000000,
+      "total_value_usd": 16000000,
+      "clauses": [
+        "Full No Move Clause for the duration of the contract",
+        "full no-movement clause"
+      ],
+      "team": "Chicago Blackhawks",
+      "status": "confirmed",
+      "conflicts": [],
+      "derived_fields": [],
+      "sources": [
+        "https://capwages.com/players/patrick-kane",
+        "https://www.espn.com/nhl/story/_/id/49432354/patrick-kane-returns-blackhawks-two-year-contract"
+      ],
+      "evidence": [
+        {
+          "url": "https://capwages.com/players/patrick-kane",
+          "quote": "Patrick Kane signs a two-year deal with the Chicago Blackhawks carrying a significant signing bonus structure. The veteran winger is expected to play a key offensive role while holding full no-move protection."
+        },
+        {
+          "url": "https://www.espn.com/nhl/story/_/id/49432354/patrick-kane-returns-blackhawks-two-year-contract",
+          "quote": "Kane's agent, Pat Brisson, told The Athletic that the contract includes a full no-movement clause."
+        }
+      ],
+      "seasons": [
+        "2026-27",
+        "2027-28"
+      ],
+      "contract_number": 8
+    }
+  ],
+  "trade_history": [
+    {
+      "date": "2022-07-01",
+      "from_team": "Chicago Blackhawks",
+      "from_abbr": "CHI",
+      "to_team": "New York Rangers",
+      "to_abbr": "NYR",
+      "new_team_received": [
+        "Patrick Kane"
+      ],
+      "old_team_received": [
+        "2023 1st-round pick"
+      ],
+      "salary_retained_pct": 0,
+      "status": "single_source",
+      "sources": [
+        "https://capwages.com/players/patrick-kane"
+      ],
+      "evidence": [
+        {
+          "url": "https://capwages.com/players/patrick-kane",
+          "quote": "Patrick Kane signed a 1 year, $2,750,000 contract with the Detroit Red Wings on Nov. 28, 2023. The contract has a cap hit of $2,750,000."
+        }
+      ]
+    },
+    {
+      "date": "2023-02-28",
+      "from_team": "Chicago Blackhawks",
+      "from_abbr": "CHI",
+      "to_team": "New York Rangers",
+      "to_abbr": "NYR",
+      "new_team_received": [
+        "Patrick Kane"
+      ],
+      "old_team_received": [
+        "conditional second-round pick in the 2023 NHL Draft",
+        "fourth-round pick in the 2025 draft",
+        "Andy Welinski"
+      ],
+      "salary_retained_pct": 50,
+      "status": "confirmed",
+      "sources": [
+        "https://www.espn.com/nhl/story/_/id/49432354/patrick-kane-returns-blackhawks-two-year-contract",
+        "https://www.nhl.com/news/patrick-kane-traded-to-new-york-rangers-from-chicago-blackhawks-341625462"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.nhl.com/news/patrick-kane-traded-to-new-york-rangers-from-chicago-blackhawks-341625462",
+          "quote": "The Blackhawks retained 50 percent of Kane's remaining pro-rated salary cap charge, and the Coyotes made the cap math work for the Rangers by joining the trade as a third team and retaining 25 percent."
+        },
+        {
+          "url": "https://www.espn.com/nhl/story/_/id/49432354/patrick-kane-returns-blackhawks-two-year-contract",
+          "quote": "Kane was traded to the New York Rangers in 2023 as the Blackhawks entered a prolonged rebuild."
+        }
+      ]
+    },
+    {
+      "date": "2023-11-09",
+      "from_team": "Chicago Blackhawks",
+      "from_abbr": "CHI",
+      "to_team": "Detroit Red Wings",
+      "to_abbr": "DET",
+      "new_team_received": [
+        "Patrick Kane"
+      ],
+      "old_team_received": [
+        "2024 2nd-round pick"
+      ],
+      "salary_retained_pct": 0,
+      "status": "single_source",
+      "sources": [
+        "https://capwages.com/players/patrick-kane"
+      ],
+      "evidence": [
+        {
+          "url": "https://capwages.com/players/patrick-kane",
+          "quote": "Patrick Kane signed a 1 year, $2,750,000 contract with the Detroit Red Wings on Nov. 28, 2023. The contract has a cap hit of $2,750,000."
+        }
+      ]
+    }
+  ],
+  "career_statistics": null,
+  "summary": {
+    "total_nhl_contracts": 8,
+    "teams_played_for": [
+      "Chicago Blackhawks",
+      "New York Rangers",
+      "Detroit Red Wings"
+    ],
+    "times_traded": 3,
+    "under_contract_through": "2027-28",
+    "current_cap_hit_usd": 8000000
+  },
+  "sources": [
+    {
+      "url": "https://www.nhl.com/news/topic/free-agency/patrick-kane-signs-two-year-contract-with-chicago-blackhawks",
+      "domain": "nhl.com",
+      "title": "Kane returns to Blackhawks, signs 2-year, $16 million contract | NHL.com",
+      "published": "2026-07-25",
+      "fetched_at": "2026-11-09T15:11:26+00:00",
+      "weight": 3.0,
+      "used_for": []
+    },
+    {
+      "url": "https://capwages.com/players/patrick-kane",
+      "domain": "capwages.com",
+      "title": "Patrick Kane | 2yrs x 8.000M (CHI)",
+      "published": "2024-10-09",
+      "fetched_at": "2026-11-09T15:11:45+00:00",
+      "weight": 2.5,
+      "used_for": [
+        "contracts",
+        "trades"
+      ]
+    },
+    {
+      "url": "https://www.nhl.com/news/patrick-kane-traded-to-new-york-rangers-from-chicago-blackhawks-341625462",
+      "domain": "nhl.com",
+      "title": "Kane goes to Rangers in 3-team trade with Blackhawks, Coyotes | NHL.com",
+      "published": "2023-03-01",
+      "fetched_at": "2026-11-09T15:13:33+00:00",
+      "weight": 3.0,
+      "used_for": [
+        "contracts",
+        "trades"
+      ]
+    },
+    {
+      "url": "https://www.espn.com/nhl/story/_/id/49432354/patrick-kane-returns-blackhawks-two-year-contract",
+      "domain": "espn.com",
+      "title": "Patrick Kane returns to Blackhawks on two-year contract",
+      "published": "2026-07-23",
+      "fetched_at": "2026-11-09T15:14:21+00:00",
+      "weight": 2.0,
+      "used_for": [
+        "contracts",
+        "trades"
+      ]
+    }
+  ],
+  "generated_at": "2026-11-09T15:40:40+00:00",
+  "generator": {
+    "pipeline_version": "1.0",
+    "model": "qwen3:14b",
+    "provider": "ollama"
+  },
+  "verification": {
+    "warnings": [
+      "contract 1: only one source — verify before relying on it",
+      "contract 2: only one source — verify before relying on it",
+      "contract 3: only one source — verify before relying on it",
+      "contract 4: season 2015-16 also covered by contract 3",
+      "contract 4: season 2016-17 also covered by contract 3",
+      "contract 4: season 2017-18 also covered by contract 3",
+      "contract 4: season 2018-19 also covered by contract 3",
+      "contract 4: season 2019-20 also covered by contract 3",
+      "contract 4: season 2020-21 also covered by contract 3",
+      "contract 4: season 2021-22 also covered by contract 3",
+      "contract 4: season 2022-23 also covered by contract 3",
+      "contract 4: only one source — verify before relying on it",
+      "contract 5: only one source — verify before relying on it",
+      "contract 6: only one source — verify before relying on it",
+      "contract 7: only one source — verify before relying on it",
+      "trade 1: only one source — verify before relying on it",
+      "trade 3: only one source — verify before relying on it"
+    ],
+    "dropped_unverified_items": 0,
+    "dropped_examples": [],
+    "pages_read": 4,
+    "pages_skipped": [
+      {
+        "url": "https://www.eliteprospects.com/player/9326/patrick-kane",
+        "reason": "not fetched (blocked, robots.txt or error)"
+      },
+      {
+        "url": "https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=96554",
+        "reason": "not fetched (blocked, robots.txt or error)"
+      },
+      {
+        "url": "https://puckpedia.com/player/patrick-kane",
+        "reason": "not fetched (blocked, robots.txt or error)"
+      },
+      {
+        "url": "https://puckpedia.com/signing/10756",
+        "reason": "not fetched (blocked, robots.txt or error)"
+      }
+    ],
+    "seconds": 396.0,
+    "schema_valid": true
+  }
+}

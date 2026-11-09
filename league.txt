@@ -1,0 +1,837 @@
+# Anaheim Ducks
+Laurent Brossoit | Anaheim Ducks
+Leo Carlsson | Anaheim Ducks
+Judd Caulfield | Anaheim Ducks
+Sam Colangelo | Anaheim Ducks
+Lukáš Dostál | Anaheim Ducks
+Cutter Gauthier | Anaheim Ducks
+Mikael Granlund | Anaheim Ducks
+A. J. Greer | Anaheim Ducks
+Drew Helleson | Anaheim Ducks
+Tyson Hinds | Anaheim Ducks
+Ville Husso | Anaheim Ducks
+Alex Killorn | Anaheim Ducks
+Jackson LaCombe | Anaheim Ducks
+Tristan Luneau | Anaheim Ducks
+Jeff Malott | Anaheim Ducks
+Roger McQueen | Anaheim Ducks
+Pavel Mintyukov | Anaheim Ducks
+Travis Mitchell | Anaheim Ducks
+Ian Moore | Anaheim Ducks
+Nico Myatovic | Anaheim Ducks
+Nikita Nesterenko | Anaheim Ducks
+Ryan Poehling | Anaheim Ducks
+Beckett Sennecke | Anaheim Ducks
+Troy Terry | Anaheim Ducks
+Frank Vatrano | Anaheim Ducks
+Noah Warren | Anaheim Ducks
+Tim Washe | Anaheim Ducks
+# Boston Bruins
+Jonathan Aspirot | Boston Bruins
+Will Borgen | Boston Bruins
+Frederic Brunet | Boston Bruins
+Connor Clifton | Boston Bruins
+Michael DiPietro | Boston Bruins
+Morgan Geekie | Boston Bruins
+James Hagens | Boston Bruins
+Tanner Jeannot | Boston Bruins
+Mark Kastelic | Boston Bruins
+Marat Khusnutdinov | Boston Bruins
+Sean Kuraly | Boston Bruins
+Elias Lindholm | Boston Bruins
+Hampus Lindholm | Boston Bruins
+Mason Lohrei | Boston Bruins
+Charlie McAvoy | Boston Bruins
+Fraser Minten | Boston Bruins
+Casey Mittelstadt | Boston Bruins
+David Pastrňák | Boston Bruins
+JJ Peterka | Boston Bruins
+Matt Poitras | Boston Bruins
+Jeremy Swayman | Boston Bruins
+Pavel Zacha | Boston Bruins
+Nikita Zadorov | Boston Bruins
+# Buffalo Sabres
+Zach Benson | Buffalo Sabres
+Sam Carrick | Buffalo Sabres
+Louis Crevier | Buffalo Sabres
+Rasmus Dahlin | Buffalo Sabres
+Justin Danforth | Buffalo Sabres
+Josh Doan | Buffalo Sabres
+Colten Ellis | Buffalo Sabres
+Dennis Gilbert | Buffalo Sabres
+Matt Grzelcyk | Buffalo Sabres
+Konsta Helenius | Buffalo Sabres
+Tyson Kozak | Buffalo Sabres
+Peyton Krebs | Buffalo Sabres
+Jiří Kulich | Buffalo Sabres
+Ukko-Pekka Luukkonen | Buffalo Sabres
+Alex Lyon | Buffalo Sabres
+Beck Malenstyn | Buffalo Sabres
+Ryan McLeod | Buffalo Sabres
+Zach Metsa | Buffalo Sabres
+Josh Norris | Buffalo Sabres
+Noah Östlund | Buffalo Sabres
+Owen Power | Buffalo Sabres
+Jack Quinn | Buffalo Sabres
+Mattias Samuelsson | Buffalo Sabres
+Tage Thompson | Buffalo Sabres
+Conor Timmins | Buffalo Sabres
+Olen Zellweger | Buffalo Sabres
+Jason Zucker | Buffalo Sabres
+# Calgary Flames
+Mikael Backlund | Calgary Flames
+Kevin Bahl | Calgary Flames
+Jonathan Castagna | Calgary Flames
+Devin Cooley | Calgary Flames
+Matt Coronato | Calgary Flames
+Joel Farabee | Calgary Flames
+Morgan Frost | Calgary Flames
+Matvei Gridin | Calgary Flames
+Joel Hanley | Calgary Flames
+Samuel Honzek | Calgary Flames
+Jonathan Huberdeau | Calgary Flames
+Adam Klapka | Calgary Flames
+Yan Kuznetsov | Calgary Flames
+Jake Middleton | Calgary Flames
+Šimon Nemec | Calgary Flames
+Brennan Othmann | Calgary Flames
+Brayden Pachal | Calgary Flames
+Zayne Parekh | Calgary Flames
+Martin Pospíšil | Calgary Flames
+Yegor Sharangovich | Calgary Flames
+William Strömgren | Calgary Flames
+Ryan Strome | Calgary Flames
+Aydar Suniev | Calgary Flames
+Maxim Tsyplakov | Calgary Flames
+Zach Whitecloud | Calgary Flames
+Dustin Wolf | Calgary Flames
+# Carolina Hurricanes
+Sebastian Aho | Carolina Hurricanes
+Jackson Blake | Carolina Hurricanes
+Brandon Bussi | Carolina Hurricanes
+William Carrier | Carolina Hurricanes
+Jalen Chatfield | Carolina Hurricanes
+Nicolas Deslauriers | Carolina Hurricanes
+Nikolaj Ehlers | Carolina Hurricanes
+Shayne Gostisbehere | Carolina Hurricanes
+Taylor Hall | Carolina Hurricanes
+Mark Jankowski | Carolina Hurricanes
+Seth Jarvis | Carolina Hurricanes
+Pyotr Kochetkov | Carolina Hurricanes
+Jesperi Kotkaniemi | Carolina Hurricanes
+Jordan Martinook | Carolina Hurricanes
+K'Andre Miller | Carolina Hurricanes
+Alexander Nikishin | Carolina Hurricanes
+Mike Reilly | Carolina Hurricanes
+Eric Robinson | Carolina Hurricanes
+Jaccob Slavin | Carolina Hurricanes
+Jordan Staal | Carolina Hurricanes
+Logan Stankoven | Carolina Hurricanes
+Andrei Svechnikov | Carolina Hurricanes
+Juuso Välimäki | Carolina Hurricanes
+Sean Walker | Carolina Hurricanes
+# Chicago Blackhawks
+Connor Bedard | Chicago Blackhawks
+Tyler Bertuzzi | Chicago Blackhawks
+Dillon Boucher | Chicago Blackhawks
+Bowen Byram | Chicago Blackhawks
+Ian Cole | Chicago Blackhawks
+Drew Commesso | Chicago Blackhawks
+Ethan Del Mastro | Chicago Blackhawks
+Ryan Donato | Chicago Blackhawks
+Anton Frondell | Chicago Blackhawks
+Ryan Greene | Chicago Blackhawks
+Jordan Greenway | Chicago Blackhawks
+Wyatt Kaiser | Chicago Blackhawks
+Patrick Kane | Chicago Blackhawks
+Roman Kantserov | Chicago Blackhawks
+Spencer Knight | Chicago Blackhawks
+Kevin Korchinski | Chicago Blackhawks
+Artyom Levshunov | Chicago Blackhawks
+Andrew Mangiapane | Chicago Blackhawks
+Oliver Moore | Chicago Blackhawks
+Frank Nazar | Chicago Blackhawks
+Sam Rinzel | Chicago Blackhawks
+Cole Smith | Chicago Blackhawks
+Arvid Söderblom | Chicago Blackhawks
+Teuvo Teräväinen | Chicago Blackhawks
+Alex Vlasic | Chicago Blackhawks
+# Colorado Avalanche
+Mackenzie Blackwood | Colorado Avalanche
+Brent Burns | Colorado Avalanche
+T. J. Hughes | Colorado Avalanche
+Noah Juulsen | Colorado Avalanche
+Nazem Kadri | Colorado Avalanche
+Parker Kelly | Colorado Avalanche
+Brett Kulak | Colorado Avalanche
+Zachary L'Heureux | Colorado Avalanche
+Gabriel Landeskog | Colorado Avalanche
+Artturi Lehkonen | Colorado Avalanche
+Nathan MacKinnon | Colorado Avalanche
+Cale Makar | Colorado Avalanche
+Sam Malinski | Colorado Avalanche
+Josh Manson | Colorado Avalanche
+Martin Nečas | Colorado Avalanche
+Brock Nelson | Colorado Avalanche
+Logan O'Connor | Colorado Avalanche
+Nicolas Roy | Colorado Avalanche
+Jaden Schwartz | Colorado Avalanche
+Fedor Svechkov | Colorado Avalanche
+Devon Toews | Colorado Avalanche
+Scott Wedgewood | Colorado Avalanche
+# Columbus Blue Jackets
+Emil Andrae | Columbus Blue Jackets
+Jake Christiansen | Columbus Blue Jackets
+Charlie Coyle | Columbus Blue Jackets
+Luca Del Bel Belluz | Columbus Blue Jackets
+Dante Fabbro | Columbus Blue Jackets
+Adam Fantilli | Columbus Blue Jackets
+Conor Garland | Columbus Blue Jackets
+Jet Greaves | Columbus Blue Jackets
+Erik Gudbranson | Columbus Blue Jackets
+Danton Heinen | Columbus Blue Jackets
+Kent Johnson | Columbus Blue Jackets
+Matthew Knies | Columbus Blue Jackets
+Ryan Lomberg | Columbus Blue Jackets
+Isac Lundeström | Columbus Blue Jackets
+Denton Mateychuk | Columbus Blue Jackets
+Sean Monahan | Columbus Blue Jackets
+Valeri Nichushkin | Columbus Blue Jackets
+Mathieu Olivier | Columbus Blue Jackets
+Ivan Provorov | Columbus Blue Jackets
+Damon Severson | Columbus Blue Jackets
+Cole Sillinger | Columbus Blue Jackets
+Cam Talbot | Columbus Blue Jackets
+Dmitri Voronkov | Columbus Blue Jackets
+Zach Werenski | Columbus Blue Jackets
+# Dallas Stars
+Oskar Bäck | Dallas Stars
+Jamie Benn | Dallas Stars
+Lian Bichsel | Dallas Stars
+Colin Blackwell | Dallas Stars
+Kyle Capobianco | Dallas Stars
+Casey DeSmith | Dallas Stars
+Matt Duchene | Dallas Stars
+Radek Faksa | Dallas Stars
+Thomas Harley | Dallas Stars
+Miro Heiskanen | Dallas Stars
+Roope Hintz | Dallas Stars
+Justin Hryckowian | Dallas Stars
+Arttu Hyry | Dallas Stars
+Wyatt Johnston | Dallas Stars
+Joel Kiviranta | Dallas Stars
+Esa Lindell | Dallas Stars
+Nils Lundkvist | Dallas Stars
+Tyler Myers | Dallas Stars
+Jake Oettinger | Dallas Stars
+David Perron | Dallas Stars
+Mikko Rantanen | Dallas Stars
+Jason Robertson | Dallas Stars
+Tyler Seguin | Dallas Stars
+Sam Steel | Dallas Stars
+# Detroit Red Wings
+Mason Appleton | Detroit Red Wings
+Viktor Arvidsson | Detroit Red Wings
+Jacob Bernard-Docker | Detroit Red Wings
+Michael Brandsegg-Nygård | Detroit Red Wings
+Ben Chiarot | Detroit Red Wings
+J. T. Compher | Detroit Red Wings
+Andrew Copp | Detroit Red Wings
+Nate Danielson | Detroit Red Wings
+Alex DeBrincat | Detroit Red Wings
+Sheldon Dries | Detroit Red Wings
+Simon Edvinsson (RFA) | Detroit Red Wings
+Andreas Englund | Detroit Red Wings
+Justin Faulk | Detroit Red Wings
+Emmitt Finnie | Detroit Red Wings
+John Gibson | Detroit Red Wings
+Albert Johansson | Detroit Red Wings
+Anton Johansson | Detroit Red Wings
+Marco Kasper | Detroit Red Wings
+Keegan Kolesar | Detroit Red Wings
+Dylan Larkin | Detroit Red Wings
+Carter Mazur | Detroit Red Wings
+Michael Rasmussen | Detroit Red Wings
+Lucas Raymond | Detroit Red Wings
+Moritz Seider | Detroit Red Wings
+Daniil Tarasov | Detroit Red Wings
+William Wallinder | Detroit Red Wings
+# Edmonton Oilers
+Frederik Andersen | Edmonton Oilers
+Evan Bouchard | Edmonton Oilers
+Colton Dach | Edmonton Oilers
+Jason Dickinson | Edmonton Oilers
+Leon Draisaitl | Edmonton Oilers
+Mattias Ekholm | Edmonton Oilers
+Ty Emberson | Edmonton Oilers
+Alex Formenton | Edmonton Oilers
+Trent Frederic | Edmonton Oilers
+Filip Hållander | Edmonton Oilers
+Isaac Howard | Edmonton Oilers
+Zach Hyman | Edmonton Oilers
+Mattias Janmark | Edmonton Oilers
+Tristan Jarry | Edmonton Oilers
+Max Jones | Edmonton Oilers
+Mathieu Joseph | Edmonton Oilers
+Kasperi Kapanen | Edmonton Oilers
+Devon Levi | Edmonton Oilers
+Owen Michaels | Edmonton Oilers
+Connor McDavid | Edmonton Oilers
+Shakir Mukhamadullin | Edmonton Oilers
+Connor Murphy | Edmonton Oilers
+Ryan Nugent-Hopkins | Edmonton Oilers
+Vasily Podkolzin | Edmonton Oilers
+Alec Regula | Edmonton Oilers
+Matt Savoie | Edmonton Oilers
+Ryan Shea | Edmonton Oilers
+Jake Walman | Edmonton Oilers
+# Florida Panthers
+Uvis Balinskis | Florida Panthers
+Aleksander Barkov | Florida Panthers
+Sam Bennett | Florida Panthers
+Cooper Black | Florida Panthers
+Aaron Ekblad | Florida Panthers
+Lars Eller | Florida Panthers
+Gustav Forsling | Florida Panthers
+Jonah Gadjovich | Florida Panthers
+Radko Gudas | Florida Panthers
+Garnet Hathaway | Florida Panthers
+Bokondji Imama | Florida Panthers
+Seth Jones | Florida Panthers
+Dmitry Kulikov | Florida Panthers
+Sam Lafferty | Florida Panthers
+Anton Lundell | Florida Panthers
+Eetu Luostarinen | Florida Panthers
+Brad Marchand | Florida Panthers
+Jacob Markström | Florida Panthers
+Niko Mikkola | Florida Panthers
+Sam Reinhart | Florida Panthers
+Akira Schmid | Florida Panthers
+Brady Tkachuk | Florida Panthers
+Matthew Tkachuk | Florida Panthers
+Carter Verhaeghe | Florida Panthers
+Sandis Vilmanis | Florida Panthers
+# Los Angeles Kings
+Mikey Anderson | Los Angeles Kings
+Joel Armia | Los Angeles Kings
+Quinton Byfield | Los Angeles Kings
+Cody Ceci | Los Angeles Kings
+Martin Chromiak | Los Angeles Kings
+Brandt Clarke | Los Angeles Kings
+Drew Doughty | Los Angeles Kings
+Brian Dumoulin | Los Angeles Kings
+Joel Edmundson | Los Angeles Kings
+Kevin Fiala | Los Angeles Kings
+Anton Forsberg | Los Angeles Kings
+Erik Gustafsson | Los Angeles Kings
+Erik Haula | Los Angeles Kings
+Samuel Helenius | Los Angeles Kings
+Adrian Kempe | Los Angeles Kings
+Darcy Kuemper | Los Angeles Kings
+Alex Laferriere | Los Angeles Kings
+Scott Laughton | Los Angeles Kings
+Andre Lee | Los Angeles Kings
+Trevor Moore | Los Angeles Kings
+Artemi Panarin | Los Angeles Kings
+Corey Perry | Los Angeles Kings
+Alex Turcotte | Los Angeles Kings
+Mats Zuccarello | Los Angeles Kings
+# Minnesota Wild
+Zach Bogosian | Minnesota Wild
+Matt Boldy | Minnesota Wild
+Bobby Brink | Minnesota Wild
+Jonas Brodin | Minnesota Wild
+Blake Coleman | Minnesota Wild
+Cameron Crotty | Minnesota Wild
+Joel Eriksson Ek | Minnesota Wild
+Brock Faber | Minnesota Wild
+Marcus Foligno | Minnesota Wild
+Nick Foligno | Minnesota Wild
+Filip Gustavsson | Minnesota Wild
+Ryan Hartman | Minnesota Wild
+Quinn Hughes | Minnesota Wild
+Kirill Kaprizov | Minnesota Wild
+Matt Kiersted | Minnesota Wild
+Carson Lambos | Minnesota Wild
+Olli Määttä | Minnesota Wild
+Michael McCarron | Minnesota Wild
+Calvin Pickard | Minnesota Wild
+Tyler Pitlick | Minnesota Wild
+Maxim Shabanov | Minnesota Wild
+Mason Shaw | Minnesota Wild
+David Spacek | Minnesota Wild
+Jared Spurgeon | Minnesota Wild
+Nico Sturm | Minnesota Wild
+Yakov Trenin | Minnesota Wild
+Jesper Wallstedt | Minnesota Wild
+Danila Yurov | Minnesota Wild
+# Montreal Canadiens
+Josh Anderson | Montreal Canadiens
+Owen Beck | Montreal Canadiens
+Zachary Bolduc | Montreal Canadiens
+Alexandre Carrier | Montreal Canadiens
+Cole Caufield | Montreal Canadiens
+Kirby Dach | Montreal Canadiens
+Phillip Danault | Montreal Canadiens
+Ivan Demidov | Montreal Canadiens
+Jakub Dobeš | Montreal Canadiens
+Noah Dobson | Montreal Canadiens
+Adam Engström | Montreal Canadiens
+Jake Evans | Montreal Canadiens
+Jacob Fowler | Montreal Canadiens
+Kaiden Guhle | Montreal Canadiens
+Lane Hutson | Montreal Canadiens
+Oliver Kapanen | Montreal Canadiens
+Chris Kreider | Montreal Canadiens
+Mike Matheson | Montreal Canadiens
+Sam Montembeault | Montreal Canadiens
+Alex Newhook | Montreal Canadiens
+Juraj Slafkovský | Montreal Canadiens
+Nick Suzuki | Montreal Canadiens
+Alexandre Texier | Montreal Canadiens
+Arber Xhekaj | Montreal Canadiens
+Florian Xhekaj | Montreal Canadiens
+# Nashville Predators
+Justus Annunen | Nashville Predators
+Mavrik Bourque | Nashville Predators
+Ross Colton | Nashville Predators
+Jack Drury | Nashville Predators
+Adam Edström | Nashville Predators
+Filip Forsberg | Nashville Predators
+Nicolas Hague | Nashville Predators
+Nils Höglander | Nashville Predators
+Daemon Hunt | Nashville Predators
+Roman Josi | Nashville Predators
+Alexander Kerfoot | Nashville Predators
+Ilya Lyubushkin | Nashville Predators
+Jonathan Marchessault | Nashville Predators
+Ryan O'Reilly | Nashville Predators
+Nick Perbix | Nashville Predators
+Vitali Pinchuk | Nashville Predators
+Juuse Saros | Nashville Predators
+Reid Schaefer | Nashville Predators
+Brady Skjei | Nashville Predators
+Steven Stamkos | Nashville Predators
+Jayden Struble | Nashville Predators
+William Trudeau | Nashville Predators
+Adam Wilsby | Nashville Predators
+Shane Wright | Nashville Predators
+# New Jersey Devils
+Jake Allen | New Jersey Devils
+Jesper Boqvist | New Jersey Devils
+Jesper Bratt | New Jersey Devils
+Connor Brown | New Jersey Devils
+Seamus Casey | New Jersey Devils
+Declan Chisholm | New Jersey Devils
+Brenden Dillon | New Jersey Devils
+Luke Evangelista | New Jersey Devils
+Cody Glass | New Jersey Devils
+Arseni Gritsyuk | New Jersey Devils
+Dougie Hamilton | New Jersey Devils
+Connor Hellebuyck | New Jersey Devils
+Nico Hischier | New Jersey Devils
+Jack Hughes | New Jersey Devils
+Luke Hughes | New Jersey Devils
+Johnathan Kovacevic | New Jersey Devils
+Amadeus Lombardi | New Jersey Devils
+Anthony Mantha | New Jersey Devils
+Timo Meier | New Jersey Devils
+Brett Pesce | New Jersey Devils
+Evan Rodrigues | New Jersey Devils
+Jonas Siegenthaler | New Jersey Devils
+# New York Islanders
+Mathew Barzal | New York Islanders
+Mitchell Chaffee | New York Islanders
+Casey Cizikas | New York Islanders
+Tony DeAngelo | New York Islanders
+Anthony Duclair | New York Islanders
+Victor Eklund | New York Islanders
+Emil Heineman | New York Islanders
+Simon Holmström | New York Islanders
+Bo Horvat | New York Islanders
+Ben Hutton | New York Islanders
+Matthew Kessel | New York Islanders
+Matias Maccelli | New York Islanders
+Kyle MacLean | New York Islanders
+Scott Mayfield | New York Islanders
+Jean-Gabriel Pageau | New York Islanders
+Ondřej Palát | New York Islanders
+Kyle Palmieri | New York Islanders
+Adam Pelech | New York Islanders
+Ryan Pulock | New York Islanders
+Calum Ritchie | New York Islanders
+Alexander Romanov | New York Islanders
+Matthew Schaefer | New York Islanders
+Brayden Schenn | New York Islanders
+Ilya Sorokin | New York Islanders
+Logan Stanley | New York Islanders
+Semyon Varlamov | New York Islanders
+# New York Rangers
+Oliver Bjorkstrand | New York Rangers
+Jaroslav Chmelař | New York Rangers
+Will Cuylle | New York Rangers
+Marc Del Gaizo | New York Rangers
+Pavel Dorofeyev | New York Rangers
+Sean Durzi | New York Rangers
+Adam Fox | New York Rangers
+Dylan Garand | New York Rangers
+Vladislav Gavrikov | New York Rangers
+Luke Glendening | New York Rangers
+Tye Kartye | New York Rangers
+Joonas Korpisalo | New York Rangers
+Noah Laba | New York Rangers
+Alexis Lafrenière | New York Rangers
+J. T. Miller | New York Rangers
+Scott Morrow | New York Rangers
+Gabe Perreault | New York Rangers
+Marcus Pettersson | New York Rangers
+Matt Rempe | New York Rangers
+Matthew Robertson | New York Rangers
+Braden Schneider | New York Rangers
+Igor Shesterkin | New York Rangers
+Adam Sýkora | New York Rangers
+Alberts Šmits | New York Rangers
+Eeli Tolvanen | New York Rangers
+Joe Veleno | New York Rangers
+Mika Zibanejad | New York Rangers
+# Ottawa Senators
+Michael Amadio | Ottawa Senators
+Drake Batherson | Ottawa Senators
+Sammy Blais | Ottawa Senators
+André Burakovsky | Ottawa Senators
+Thomas Chabot | Ottawa Senators
+Nick Cousins | Ottawa Senators
+Dylan Cozens | Ottawa Senators
+William Eklund | Ottawa Senators
+Samuel Ersson | Ottawa Senators
+Warren Foegele | Ottawa Senators
+Claude Giroux | Ottawa Senators
+Ridly Greig | Ottawa Senators
+Stephen Halliday | Ottawa Senators
+Hayden Hodgson | Ottawa Senators
+Jonas Johansson | Ottawa Senators
+Tyler Kleven | Ottawa Senators
+Nikolas Matinpalo | Ottawa Senators
+Shane Pinto | Ottawa Senators
+Jake Sanderson | Ottawa Senators
+Jordan Spence | Ottawa Senators
+Tim Stützle | Ottawa Senators
+Philip Tomasino | Ottawa Senators
+Linus Ullmark | Ottawa Senators
+Carter Yakemchuk | Ottawa Senators
+Fabian Zetterlund | Ottawa Senators
+Artem Zub | Ottawa Senators
+# Philadelphia Flyers
+Noel Acciari | Philadelphia Flyers
+Denver Barkey | Philadelphia Flyers
+Simon Benoit | Philadelphia Flyers
+Oliver Bonk | Philadelphia Flyers
+Michael Bunting | Philadelphia Flyers
+Noah Cates | Philadelphia Flyers
+Sean Couturier | Philadelphia Flyers
+Jamie Drysdale | Philadelphia Flyers
+Christian Dvorak | Philadelphia Flyers
+Tyson Foerster | Philadelphia Flyers
+Nikita Grebenkin | Philadelphia Flyers
+David Jiříček | Philadelphia Flyers
+Cole Knuble | Philadelphia Flyers
+Travis Konecny | Philadelphia Flyers
+Porter Martone | Philadelphia Flyers
+Matvei Michkov | Philadelphia Flyers
+Rasmus Ristolainen | Philadelphia Flyers
+Travis Sanheim | Philadelphia Flyers
+Nick Seeler | Philadelphia Flyers
+Owen Tippett | Philadelphia Flyers
+Daniel Vladař | Philadelphia Flyers
+Joseph Woll | Philadelphia Flyers
+Cam York | Philadelphia Flyers
+Trevor Zegras | Philadelphia Flyers
+# Pittsburgh Penguins
+Justin Brazeau | Pittsburgh Penguins
+Declan Carlile | Pittsburgh Penguins
+Egor Chinakhov | Pittsburgh Penguins
+Sidney Crosby | Pittsburgh Penguins
+Connor Dewar | Pittsburgh Penguins
+Sam Girard | Pittsburgh Penguins
+Ryan Graves | Pittsburgh Penguins
+Erik Karlsson | Pittsburgh Penguins
+Ben Kindel | Pittsburgh Penguins
+Ville Koivunen | Pittsburgh Penguins
+Kaedan Korczak | Pittsburgh Penguins
+Andrei Kuzmenko | Pittsburgh Penguins
+Hendrix Lapierre | Pittsburgh Penguins
+Kris Letang | Pittsburgh Penguins
+Blake Lizotte | Pittsburgh Penguins
+Evgeni Malkin | Pittsburgh Penguins
+Sergei Murashov | Pittsburgh Penguins
+Tommy Novak | Pittsburgh Penguins
+Rickard Rakell | Pittsburgh Penguins
+Nick Robertson | Pittsburgh Penguins
+Bryan Rust | Pittsburgh Penguins
+Artūrs Šilovs | Pittsburgh Penguins
+Elmer Söderblom | Pittsburgh Penguins
+Ilya Solovyov | Pittsburgh Penguins
+Spencer Stastney | Pittsburgh Penguins
+Trevor van Riemsdyk | Pittsburgh Penguins
+# San Jose Sharks
+Nolan Allan | San Jose Sharks
+Yaroslav Askarov | San Jose Sharks
+Filip Bystedt | San Jose Sharks
+Macklin Celebrini | San Jose Sharks
+Igor Chernyshov | San Jose Sharks
+Logan Couture | San Jose Sharks
+Ty Dellandrea | San Jose Sharks
+Sam Dickinson | San Jose Sharks
+Adam Gaudette | San Jose Sharks
+Barclay Goodrow | San Jose Sharks
+Collin Graf | San Jose Sharks
+Michael Kesselring | San Jose Sharks
+Mason Marchment | San Jose Sharks
+Michael Misa | San Jose Sharks
+Alex Nedeljkovic | San Jose Sharks
+Darnell Nurse | San Jose Sharks
+Dmitry Orlov | San Jose Sharks
+Zack Ostapchuk | San Jose Sharks
+Eric Pohlkamp | San Jose Sharks
+Kiefer Sherwood | San Jose Sharks
+Will Smith | San Jose Sharks
+Ivar Stenberg | San Jose Sharks
+Tyler Toffoli | San Jose Sharks
+Jacob Trouba | San Jose Sharks
+Alexander Wennberg | San Jose Sharks
+# Seattle Kraken
+Matty Beniers | Seattle Kraken
+Berkly Catton | Seattle Kraken
+Joey Daccord | Seattle Kraken
+Curtis Douglas | Seattle Kraken
+Vince Dunn | Seattle Kraken
+Jordan Eberle | Seattle Kraken
+Ryker Evans | Seattle Kraken
+Cale Fleury | Seattle Kraken
+Frédérick Gaudreau | Seattle Kraken
+Philipp Grubauer | Seattle Kraken
+Kaapo Kakko | Seattle Kraken
+Adam Larsson | Seattle Kraken
+Ryan Lindgren | Seattle Kraken
+Josh Mahura | Seattle Kraken
+Jared McCann | Seattle Kraken
+Bobby McMann | Seattle Kraken
+Jacob Melanson | Seattle Kraken
+Ben Meyers | Seattle Kraken
+Brandon Montour | Seattle Kraken
+Jani Nyman | Seattle Kraken
+Ville Ottavainen | Seattle Kraken
+Mackie Samoskevich | Seattle Kraken
+Chandler Stephenson | Seattle Kraken
+Ryan Winterton | Seattle Kraken
+Matthew Wood | Seattle Kraken
+# St. Louis Blues
+Justin Barron | St. Louis Blues
+Jonatan Berggren | St. Louis Blues
+Jordan Binnington | St. Louis Blues
+Philip Broberg | St. Louis Blues
+Pavel Buchnevich | St. Louis Blues
+Brandon Carlo | St. Louis Blues
+Dillon Dubé | St. Louis Blues
+Dalibor Dvorský | St. Louis Blues
+Cam Fowler | St. Louis Blues
+Joel Hofer | St. Louis Blues
+Dylan Holloway | St. Louis Blues
+Adam Jiříček | St. Louis Blues
+Ross Johnston | St. Louis Blues
+Aleksanteri Kaskimaki | St. Louis Blues
+Theo Lindstein | St. Louis Blues
+Logan Mailloux | St. Louis Blues
+Connor McMichael | St. Louis Blues
+Mason McTavish | St. Louis Blues
+Jake Neighbours | St. Louis Blues
+Colton Parayko | St. Louis Blues
+Jimmy Snuggerud | St. Louis Blues
+Pius Suter | St. Louis Blues
+Robert Thomas | St. Louis Blues
+Alexey Toropchenko | St. Louis Blues
+Tyler Tucker | St. Louis Blues
+# Tampa Bay Lightning
+John Carlson | Tampa Bay Lightning
+Erik Černák | Tampa Bay Lightning
+Anthony Cirelli | Tampa Bay Lightning
+Max Crozier | Tampa Bay Lightning
+Charle-Edouard D'Astous | Tampa Bay Lightning
+Conor Geekie | Tampa Bay Lightning
+Zemgus Girgensons | Tampa Bay Lightning
+Gage Goncalves | Tampa Bay Lightning
+Yanni Gourde | Tampa Bay Lightning
+Jake Guentzel | Tampa Bay Lightning
+Brandon Hagel | Tampa Bay Lightning
+Victor Hedman | Tampa Bay Lightning
+Dennis Hildeby | Tampa Bay Lightning
+Pontus Holmberg | Tampa Bay Lightning
+Dominic James | Tampa Bay Lightning
+Nikita Kucherov | Tampa Bay Lightning
+Emil Lilleberg | Tampa Bay Lightning
+Ryan McDonagh | Tampa Bay Lightning
+Ilya Mikheyev | Tampa Bay Lightning
+J. J. Moser | Tampa Bay Lightning
+Brayden Point | Tampa Bay Lightning
+Scott Sabourin | Tampa Bay Lightning
+Andrei Vasilevskiy | Tampa Bay Lightning
+Jeffrey Viel | Tampa Bay Lightning
+# Toronto Maple Leafs
+Nick Blankenburg | Toronto Maple Leafs
+Teddy Blueger | Toronto Maple Leafs
+Sergei Bobrovsky | Toronto Maple Leafs
+Easton Cowan | Toronto Maple Leafs
+Max Domi | Toronto Maple Leafs
+Brandon Duhaime | Toronto Maple Leafs
+Oliver Ekman-Larsson | Toronto Maple Leafs
+Benoit-Olivier Groulx | Toronto Maple Leafs
+Dakota Joshua | Toronto Maple Leafs
+Vinni Lettieri | Toronto Maple Leafs
+Zack MacEwen | Toronto Maple Leafs
+Kirill Marchenko | Toronto Maple Leafs
+Auston Matthews | Toronto Maple Leafs
+Jake McCabe | Toronto Maple Leafs
+Gavin McKenna | Toronto Maple Leafs
+Cole McWard | Toronto Maple Leafs
+Dakota Mermis | Toronto Maple Leafs
+Elvis Merzļikins | Toronto Maple Leafs
+William Nylander | Toronto Maple Leafs
+Nick Paul | Toronto Maple Leafs
+Darren Raddysh | Toronto Maple Leafs
+Morgan Rielly | Toronto Maple Leafs
+Marshall Rifai | Toronto Maple Leafs
+Jack Roslovic | Toronto Maple Leafs
+Colton Sissons | Toronto Maple Leafs
+Troy Stecher | Toronto Maple Leafs
+Anthony Stolarz | Toronto Maple Leafs
+Christopher Tanev | Toronto Maple Leafs
+John Tavares | Toronto Maple Leafs
+William Villeneuve | Toronto Maple Leafs
+Miles Wood | Toronto Maple Leafs
+# Utah Mammoth
+Daniil But | Utah Mammoth
+Michael Carcone | Utah Mammoth
+Logan Cooley | Utah Mammoth
+Sebastian Cossa | Utah Mammoth
+Lawson Crouse | Utah Mammoth
+Nick DeSimone | Utah Mammoth
+Artem Duda | Utah Mammoth
+Dylan Guenther | Utah Mammoth
+Barrett Hayton | Utah Mammoth
+Clayton Keller | Utah Mammoth
+Maveric Lamoureux | Utah Mammoth
+Anders Lee | Utah Mammoth
+John Marino | Utah Mammoth
+Jack McBain | Utah Mammoth
+Liam O'Brien | Utah Mammoth
+Andrew Peeke | Utah Mammoth
+Nick Schmaltz | Utah Mammoth
+Nate Schmidt | Utah Mammoth
+Mikhail Sergachev | Utah Mammoth
+Dmitriy Simashev | Utah Mammoth
+Kevin Stenlund | Utah Mammoth
+Vincent Trocheck | Utah Mammoth
+Karel Vejmelka | Utah Mammoth
+MacKenzie Weegar | Utah Mammoth
+Kailer Yamamoto | Utah Mammoth
+# Vancouver Canucks
+Arshdeep Bains | Vancouver Canucks
+Brock Boeser | Vancouver Canucks
+Guillaume Brisebois | Vancouver Canucks
+Zeev Buium | Vancouver Canucks
+Filip Chytil | Vancouver Canucks
+Paul Cotter | Vancouver Canucks
+Jake DeBrusk | Vancouver Canucks
+Thatcher Demko | Vancouver Canucks
+Brendan Gallagher | Vancouver Canucks
+Filip Hronek | Vancouver Canucks
+Linus Karlsson | Vancouver Canucks
+Kevin Lankinen | Vancouver Canucks
+Jonathan Lekkerimäki | Vancouver Canucks
+Victor Mancini | Vancouver Canucks
+Leevi Meriläinen | Vancouver Canucks
+Drew O'Connor | Vancouver Canucks
+Liam Öhgren | Vancouver Canucks
+Jamie Oleksiak | Vancouver Canucks
+Elias Pettersson | Vancouver Canucks
+Jacob Quillan | Vancouver Canucks
+Marco Rossi | Vancouver Canucks
+Max Sasson | Vancouver Canucks
+Luke Schenn | Vancouver Canucks
+Tom Willander | Vancouver Canucks
+# Vegas Golden Knights
+Rasmus Andersson | Vegas Golden Knights
+Ivan Barbashev | Vegas Golden Knights
+Braeden Bowman | Vegas Golden Knights
+Dylan Coghlan | Vegas Golden Knights
+Trevor Connelly | Vegas Golden Knights
+Nic Dowd | Vegas Golden Knights
+Jack Eichel | Vegas Golden Knights
+Marc Gatcomb | Vegas Golden Knights
+Noah Hanifin | Vegas Golden Knights
+Carter Hart | Vegas Golden Knights
+Tomáš Hertl | Vegas Golden Knights
+Adin Hill | Vegas Golden Knights
+Brett Howden | Vegas Golden Knights
+William Karlsson | Vegas Golden Knights
+Jérémy Lauzon | Vegas Golden Knights
+Raphaël Lavoie | Vegas Golden Knights
+Mitch Marner | Vegas Golden Knights
+Brayden McNabb | Vegas Golden Knights
+Victor Olofsson | Vegas Golden Knights
+Mark Stone | Vegas Golden Knights
+Shea Theodore | Vegas Golden Knights
+Parker Wotherspoon | Vegas Golden Knights
+# Washington Capitals
+Anthony Beauvillier | Washington Capitals
+Jakob Chychrun | Washington Capitals
+Vincent Desharnais | Washington Capitals
+Pierre-Luc Dubois | Washington Capitals
+Martin Fehérváry | Washington Capitals
+Ethen Frank | Washington Capitals
+Cole Hutson | Washington Capitals
+Boone Jenner | Washington Capitals
+Jordan Kyrou | Washington Capitals
+Ryan Leonard | Washington Capitals
+Timothy Liljegren | Washington Capitals
+Charlie Lindgren | Washington Capitals
+Ivan Miroshnichenko | Washington Capitals
+Alexander Ovechkin | Washington Capitals
+Rémi Poirier | Washington Capitals
+Aliaksei Protas | Washington Capitals
+Ilya Protas | Washington Capitals
+Matt Roy | Washington Capitals
+Rasmus Sandin | Washington Capitals
+Justin Sourdif | Washington Capitals
+Jack St. Ivany | Washington Capitals
+Dylan Strome | Washington Capitals
+Logan Thompson | Washington Capitals
+Alex Tuch | Washington Capitals
+Tom Wilson | Washington Capitals
+# Winnipeg Jets
+Morgan Barron | Winnipeg Jets
+Tyrel Bauer | Winnipeg Jets
+Viggo Björck | Winnipeg Jets
+Nick Bjugstad | Winnipeg Jets
+Kyle Connor | Winnipeg Jets
+Nico Daws | Winnipeg Jets
+Dylan DeMelo | Winnipeg Jets
+Mario Ferraro | Winnipeg Jets
+Haydn Fleury | Winnipeg Jets
+Alex Iafallo | Winnipeg Jets
+Cole Koepke | Winnipeg Jets
+Brad Lambert | Winnipeg Jets
+Adam Lowry | Winnipeg Jets
+Dawson Mercer | Winnipeg Jets
+Josh Morrissey | Winnipeg Jets
+Vladislav Namestnikov | Winnipeg Jets
+Nino Niederreiter | Winnipeg Jets
+Cole Perfetti | Winnipeg Jets
+Neal Pionk | Winnipeg Jets
+Isak Rosén | Winnipeg Jets
+Elias Salomonsson | Winnipeg Jets
+Dylan Samberg | Winnipeg Jets
+Mark Scheifele | Winnipeg Jets
+Stuart Skinner | Winnipeg Jets
+Clay Stevenson | Winnipeg Jets
+Gabriel Vilardi | Winnipeg Jets

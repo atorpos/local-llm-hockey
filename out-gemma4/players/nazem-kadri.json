@@ -1,0 +1,303 @@
+{
+  "schema_version": "1.0",
+  "player": {
+    "name": "Nazem Kadri",
+    "slug": "nazem-kadri",
+    "position": "forward",
+    "shoots": "Left",
+    "birth_date": "1990-10-06",
+    "birthplace": "London, Ontario",
+    "current_team": "Calgary Flames",
+    "current_team_abbr": "CGY"
+  },
+  "draft": {
+    "year": 2009,
+    "round": 1,
+    "overall_pick": 7,
+    "team": "Toronto Maple Leafs",
+    "team_abbr": "TOR"
+  },
+  "contracts": [
+    {
+      "team_abbr": "TOR",
+      "contract_type": "entry_level",
+      "signing_date": "2009-07-06",
+      "first_season": "2009-10",
+      "term_years": 3,
+      "cap_hit_usd": 870000,
+      "total_value_usd": 5250000,
+      "clauses": [],
+      "team": "Toronto Maple Leafs",
+      "status": "single_source",
+      "conflicts": [],
+      "derived_fields": [
+        "first_season (from signing date)"
+      ],
+      "sources": [
+        "https://capwages.com/players/nazem-kadri"
+      ],
+      "evidence": [
+        {
+          "url": "https://capwages.com/players/nazem-kadri",
+          "quote": "Nazem Kadri signed a 3 year, $5,250,000 contract with the Toronto Maple Leafs on Jul. 6, 2009."
+        }
+      ],
+      "seasons": [
+        "2009-10",
+        "2010-11",
+        "2011-12"
+      ],
+      "contract_number": 1
+    },
+    {
+      "team_abbr": "TOR",
+      "contract_type": "rfa",
+      "signing_date": "2013-09-10",
+      "first_season": "2013-14",
+      "term_years": 2,
+      "cap_hit_usd": 2900000,
+      "total_value_usd": 5800000,
+      "clauses": [],
+      "team": "Toronto Maple Leafs",
+      "status": "single_source",
+      "conflicts": [],
+      "derived_fields": [
+        "first_season (from signing date)"
+      ],
+      "sources": [
+        "https://capwages.com/players/nazem-kadri"
+      ],
+      "evidence": [
+        {
+          "url": "https://capwages.com/players/nazem-kadri",
+          "quote": "Nazem Kadri signed a 2 year, $5,800,000 contract with the Toronto Maple Leafs on Sep. 10, 2013."
+        }
+      ],
+      "seasons": [
+        "2013-14",
+        "2014-15"
+      ],
+      "contract_number": 2
+    },
+    {
+      "team_abbr": "TOR",
+      "contract_type": "rfa",
+      "signing_date": "2015-07-05",
+      "first_season": "2015-16",
+      "term_years": 1,
+      "cap_hit_usd": 4100000,
+      "total_value_usd": 4100000,
+      "clauses": [],
+      "team": "Toronto Maple Leafs",
+      "status": "single_source",
+      "conflicts": [],
+      "derived_fields": [
+        "first_season (from signing date)"
+      ],
+      "sources": [
+        "https://capwages.com/players/nazem-kadri"
+      ],
+      "evidence": [
+        {
+          "url": "https://capwages.com/players/nazem-kadri",
+          "quote": "Nazem Kadri signed a 1 year, $4,100,000 contract with the Toronto Maple Leafs on Jul. 5, 2015."
+        }
+      ],
+      "seasons": [
+        "2015-16"
+      ],
+      "contract_number": 3
+    },
+    {
+      "team_abbr": "TOR",
+      "contract_type": "extension",
+      "signing_date": "2016-04-13",
+      "first_season": "2016-17",
+      "term_years": 6,
+      "cap_hit_usd": 4500000,
+      "total_value_usd": 27000000,
+      "clauses": [
+        "Player submits a 10 team no trade list"
+      ],
+      "team": "Toronto Maple Leafs",
+      "status": "single_source",
+      "conflicts": [],
+      "derived_fields": [
+        "first_season (follows previous contract)"
+      ],
+      "sources": [
+        "https://capwages.com/players/nazem-kadri"
+      ],
+      "evidence": [
+        {
+          "url": "https://capwages.com/players/nazem-kadri",
+          "quote": "Nazem Kadri signed a 6 year, $27,000,000 contract with the Toronto Maple Leafs on Apr. 13, 2016."
+        }
+      ],
+      "seasons": [
+        "2016-17",
+        "2017-18",
+        "2018-19",
+        "2019-20",
+        "2020-21",
+        "2021-22"
+      ],
+      "contract_number": 4
+    },
+    {
+      "team_abbr": "CGY",
+      "contract_type": "ufa",
+      "signing_date": "2022-08-18",
+      "first_season": "2022-23",
+      "term_years": 7,
+      "cap_hit_usd": 7000000,
+      "total_value_usd": 49000000,
+      "clauses": [
+        "13 team no-trade list"
+      ],
+      "team": "Calgary Flames",
+      "status": "confirmed",
+      "conflicts": [],
+      "derived_fields": [
+        "first_season (from signing date)"
+      ],
+      "sources": [
+        "https://capwages.com/players/nazem-kadri",
+        "https://www.nhl.com/news/nazem-kadri-signs-seven-year-contract-with-flames-335317582"
+      ],
+      "evidence": [
+        {
+          "url": "https://capwages.com/players/nazem-kadri",
+          "quote": "Nazem Kadri signed a 7 year, $49,000,000 contract with the Calgary Flames on Aug. 18, 2022."
+        },
+        {
+          "url": "https://www.nhl.com/news/nazem-kadri-signs-seven-year-contract-with-flames-335317582",
+          "quote": "Kadri signs seven-year, $49 million contract with Flames"
+        }
+      ],
+      "seasons": [
+        "2022-23",
+        "2023-24",
+        "2024-25",
+        "2025-26",
+        "2026-27",
+        "2027-28",
+        "2028-29"
+      ],
+      "contract_number": 5
+    }
+  ],
+  "trade_history": [
+    {
+      "date": "2019-07-01",
+      "from_team": "Toronto Maple Leafs",
+      "from_abbr": "TOR",
+      "to_team": "Colorado Avalanche",
+      "to_abbr": "COL",
+      "new_team_received": [
+        "Nazem Kadri"
+      ],
+      "old_team_received": [
+        "null"
+      ],
+      "salary_retained_pct": null,
+      "status": "single_source",
+      "sources": [
+        "https://www.nhl.com/news/nazem-kadri-signs-seven-year-contract-with-flames-335317582"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.nhl.com/news/nazem-kadri-signs-seven-year-contract-with-flames-335317582",
+          "quote": "Kadri was then traded to the Avalanche on July 1, 2019."
+        }
+      ]
+    }
+  ],
+  "career_statistics": null,
+  "summary": {
+    "total_nhl_contracts": 5,
+    "teams_played_for": [
+      "Toronto Maple Leafs",
+      "Colorado Avalanche"
+    ],
+    "times_traded": 1,
+    "under_contract_through": "2028-29",
+    "current_cap_hit_usd": 7000000
+  },
+  "sources": [
+    {
+      "url": "https://capwages.com/players/nazem-kadri",
+      "domain": "capwages.com",
+      "title": "Nazem Kadri | 7yrs x 7.000M (COL)",
+      "published": "2024-10-09",
+      "fetched_at": "2026-11-09T15:04:43+00:00",
+      "weight": 2.5,
+      "used_for": [
+        "contracts"
+      ]
+    },
+    {
+      "url": "https://www.nhl.com/news/nazem-kadri-signs-seven-year-contract-with-flames-335317582",
+      "domain": "nhl.com",
+      "title": "Kadri signs seven-year, $49 million contract with Flames | NHL.com",
+      "published": "2022-08-19",
+      "fetched_at": "2026-11-09T15:06:11+00:00",
+      "weight": 3.0,
+      "used_for": [
+        "contracts",
+        "trades"
+      ]
+    },
+    {
+      "url": "https://www.nhl.com/news/topic/trade-coverage/nazem-kadri-traded-to-colorado-avalanche-by-calgary-flames",
+      "domain": "nhl.com",
+      "title": "Kadri traded back to Avalanche by Flames for Olofsson, draft picks | NHL.com",
+      "published": "2026-03-06",
+      "fetched_at": "2026-11-09T15:06:48+00:00",
+      "weight": 3.0,
+      "used_for": []
+    }
+  ],
+  "generated_at": "2026-11-09T15:07:04+00:00",
+  "generator": {
+    "pipeline_version": "1.0",
+    "model": "gemma4:12b",
+    "provider": "ollama"
+  },
+  "verification": {
+    "warnings": [
+      "contract 1: only one source — verify before relying on it",
+      "contract 2: only one source — verify before relying on it",
+      "contract 3: only one source — verify before relying on it",
+      "contract 4: only one source — verify before relying on it",
+      "trade 1: only one source — verify before relying on it"
+    ],
+    "dropped_unverified_items": 0,
+    "dropped_examples": [],
+    "pages_read": 3,
+    "pages_skipped": [
+      {
+        "url": "https://www.eliteprospects.com/player/14728/nazem-kadri",
+        "reason": "not fetched (blocked, robots.txt or error)"
+      },
+      {
+        "url": "https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=96553",
+        "reason": "not fetched (blocked, robots.txt or error)"
+      },
+      {
+        "url": "https://puckpedia.com/player/nazem-kadri",
+        "reason": "not fetched (blocked, robots.txt or error)"
+      },
+      {
+        "url": "https://puckpedia.com/trade/1112",
+        "reason": "not fetched (blocked, robots.txt or error)"
+      },
+      {
+        "url": "https://www.spotrac.com/nhl/player/_/id/8413/nazem-kadri",
+        "reason": "not fetched (blocked, robots.txt or error)"
+      }
+    ],
+    "seconds": 157.4,
+    "schema_valid": true
+  }
+}

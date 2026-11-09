@@ -1,0 +1,280 @@
+{
+  "schema_version": "1.0",
+  "player": {
+    "name": "Connor Hellebuyck",
+    "slug": "connor-hellebuyck",
+    "position": "Goalie",
+    "shoots": "Left",
+    "birth_date": "1993-05-19",
+    "birthplace": "unknown",
+    "current_team": "New Jersey Devils",
+    "current_team_abbr": "NJD"
+  },
+  "draft": {
+    "year": 2011,
+    "round": 1,
+    "overall_pick": 7,
+    "team": "Atlanta Thrashers",
+    "team_abbr": "ATL"
+  },
+  "contracts": [
+    {
+      "team_abbr": "WPG",
+      "contract_type": "entry_level",
+      "signing_date": "2014-05-26",
+      "first_season": "2014-15",
+      "term_years": 3,
+      "cap_hit_usd": 667500,
+      "total_value_usd": 2775000,
+      "clauses": [],
+      "team": "Winnipeg Jets",
+      "status": "single_source",
+      "conflicts": [],
+      "derived_fields": [],
+      "sources": [
+        "https://capwages.com/players/connor-hellebuyck"
+      ],
+      "evidence": [
+        {
+          "url": "https://capwages.com/players/connor-hellebuyck",
+          "quote": "Connor Hellebuyck signed a 3 year, $2,775,000 contract with the Winnipeg Jets on May 26, 2014. The contract has a cap hit of $667,500."
+        }
+      ],
+      "seasons": [
+        "2014-15",
+        "2015-16",
+        "2016-17"
+      ],
+      "contract_number": 1
+    },
+    {
+      "team_abbr": "WPG",
+      "contract_type": "rfa",
+      "signing_date": "2017-07-24",
+      "first_season": "2017-18",
+      "term_years": 1,
+      "cap_hit_usd": 2250000,
+      "total_value_usd": 2250000,
+      "clauses": [],
+      "team": "Winnipeg Jets",
+      "status": "single_source",
+      "conflicts": [],
+      "derived_fields": [],
+      "sources": [
+        "https://capwages.com/players/connor-hellebuyck"
+      ],
+      "evidence": [
+        {
+          "url": "https://capwages.com/players/connor-hellebuyck",
+          "quote": "Connor Hellebuyck signed a 1 year, $2,250,000 contract with the Winnipeg Jets on Jul. 24, 2017. The contract has a cap hit of $2,250,000."
+        }
+      ],
+      "seasons": [
+        "2017-18"
+      ],
+      "contract_number": 2
+    },
+    {
+      "team_abbr": "WPG",
+      "contract_type": "extension",
+      "signing_date": "2018-07-12",
+      "first_season": "2018-19",
+      "term_years": 6,
+      "cap_hit_usd": 6166667,
+      "total_value_usd": 37000000,
+      "clauses": [
+        "NMC"
+      ],
+      "team": "Winnipeg Jets",
+      "status": "single_source",
+      "conflicts": [],
+      "derived_fields": [],
+      "sources": [
+        "https://capwages.com/players/connor-hellebuyck"
+      ],
+      "evidence": [
+        {
+          "url": "https://capwages.com/players/connor-hellebuyck",
+          "quote": "Connor Hellebuyck signed a 6 year, $37,000,000 contract with the Winnipeg Jets on Jul. 12, 2018. The contract has a cap hit of $6,166,667."
+        }
+      ],
+      "seasons": [
+        "2018-19",
+        "2019-20",
+        "2020-21",
+        "2021-22",
+        "2022-23",
+        "2023-24"
+      ],
+      "contract_number": 3
+    },
+    {
+      "team_abbr": "WPG",
+      "contract_type": "extension",
+      "signing_date": "2023-10-09",
+      "first_season": "2024-25",
+      "term_years": 7,
+      "cap_hit_usd": 8500000,
+      "total_value_usd": 59500000,
+      "clauses": [
+        "NMC",
+        "M-NTC"
+      ],
+      "team": "Winnipeg Jets",
+      "status": "single_source",
+      "conflicts": [],
+      "derived_fields": [],
+      "sources": [
+        "https://capwages.com/players/connor-hellebuyck"
+      ],
+      "evidence": [
+        {
+          "url": "https://capwages.com/players/connor-hellebuyck",
+          "quote": "Connor Hellebuyck signed a 7 year, $59,500,000 contract with the Winnipeg Jets on Oct. 9, 2023. The contract has a cap hit of $8,500,000."
+        }
+      ],
+      "seasons": [
+        "2024-25",
+        "2025-26",
+        "2026-27",
+        "2027-28",
+        "2028-29",
+        "2029-30",
+        "2030-31"
+      ],
+      "contract_number": 4
+    }
+  ],
+  "trade_history": [
+    {
+      "date": "2026-10-24",
+      "from_team": "Winnipeg Jets",
+      "from_abbr": "WPG",
+      "to_team": "New Jersey Devils",
+      "to_abbr": "NJD",
+      "new_team_received": [
+        "Connor Hellebuyck",
+        "2027 4th-round pick",
+        "2028 3rd-round pick"
+      ],
+      "old_team_received": [
+        "Jack Hughes",
+        "2027 2nd-round pick",
+        "2028 2nd-round pick"
+      ],
+      "salary_retained_pct": null,
+      "status": "confirmed",
+      "sources": [
+        "https://capwages.com/players/connor-hellebuyck",
+        "https://www.nhl.com/news/topic/trade-coverage/connor-hellebuyck-traded-to-new-jersey-devils-from-winnipeg-jets"
+      ],
+      "evidence": [
+        {
+          "url": "https://capwages.com/players/connor-hellebuyck",
+          "quote": "2026-27 | NJD | 5 | 5 | 0 | 0 | 1.96 | .913 | 1 | 0 |  |  |  |  | - | - |  |  | "
+        },
+        {
+          "url": "https://www.nhl.com/news/topic/trade-coverage/connor-hellebuyck-traded-to-new-jersey-devils-from-winnipeg-jets",
+          "quote": "The Devils selected Daws in the third round (No. 84) of the 2020 NHL Draft, and the 25-year-old is 26-26-1 with a 2.94 GAA, .897 save percentage and one shutout in 59 games (54 starts) in five seasons."
+        }
+      ]
+    }
+  ],
+  "career_statistics": null,
+  "summary": {
+    "total_nhl_contracts": 4,
+    "teams_played_for": [
+      "Winnipeg Jets",
+      "New Jersey Devils"
+    ],
+    "times_traded": 1,
+    "under_contract_through": "2030-31",
+    "current_cap_hit_usd": 8500000
+  },
+  "sources": [
+    {
+      "url": "https://capwages.com/players/connor-hellebuyck",
+      "domain": "capwages.com",
+      "title": "Connor Hellebuyck | 7yrs x 8.500M (NJD)",
+      "published": "2024-10-09",
+      "fetched_at": "2026-11-09T15:15:16+00:00",
+      "weight": 2.5,
+      "used_for": [
+        "contracts",
+        "trades"
+      ]
+    },
+    {
+      "url": "https://www.nhl.com/news/topic/trade-coverage/connor-hellebuyck-traded-to-new-jersey-devils-from-winnipeg-jets",
+      "domain": "nhl.com",
+      "title": "Hellebuyck traded to Devils by Jets for Mercer, Daws, Bjugstad, picks | NHL.com",
+      "published": "2026-10-24",
+      "fetched_at": "2026-11-09T15:16:27+00:00",
+      "weight": 3.0,
+      "used_for": [
+        "trades"
+      ]
+    },
+    {
+      "url": "https://www.nhl.com/news/mark-scheifele-connor-hellebuyck-sign-7-year-deals-with-winnipeg",
+      "domain": "nhl.com",
+      "title": "Scheifele, Hellebuyck each signs 7-year, $59.5 million contract with Jets | NHL.com",
+      "published": "2023-10-09",
+      "fetched_at": "2026-11-09T15:16:54+00:00",
+      "weight": 3.0,
+      "used_for": []
+    }
+  ],
+  "generated_at": "2026-11-09T15:44:51+00:00",
+  "generator": {
+    "pipeline_version": "1.0",
+    "model": "qwen3:14b",
+    "provider": "ollama"
+  },
+  "verification": {
+    "warnings": [
+      "contract 1: only one source — verify before relying on it",
+      "contract 2: only one source — verify before relying on it",
+      "contract 3: only one source — verify before relying on it",
+      "contract 4: only one source — verify before relying on it"
+    ],
+    "dropped_unverified_items": 2,
+    "dropped_examples": [
+      {
+        "kind": "contract",
+        "reason": "no verifiable term or money",
+        "url": "https://www.nhl.com/news/mark-scheifele-connor-hellebuyck-sign-7-year-deals-with-winnipeg"
+      },
+      {
+        "kind": "trade",
+        "reason": "teams missing or identical",
+        "url": "https://www.nhl.com/news/mark-scheifele-connor-hellebuyck-sign-7-year-deals-with-winnipeg"
+      }
+    ],
+    "pages_read": 3,
+    "pages_skipped": [
+      {
+        "url": "https://www.eliteprospects.com/player/142796/connor-hellebuyck",
+        "reason": "not fetched (blocked, robots.txt or error)"
+      },
+      {
+        "url": "https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=144065",
+        "reason": "not fetched (blocked, robots.txt or error)"
+      },
+      {
+        "url": "https://puckpedia.com/player/connor-hellebuyck",
+        "reason": "not fetched (blocked, robots.txt or error)"
+      },
+      {
+        "url": "https://puckpedia.com/player/connor-hellebuyck/contracts",
+        "reason": "not fetched (blocked, robots.txt or error)"
+      },
+      {
+        "url": "https://www.spotrac.com/nhl/player/_/id/15258/connor-hellebuyck",
+        "reason": "not fetched (blocked, robots.txt or error)"
+      }
+    ],
+    "seconds": 251.4,
+    "schema_valid": true
+  }
+}
